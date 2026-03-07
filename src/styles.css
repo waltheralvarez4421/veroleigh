@@ -6,6 +6,14 @@ h3, h4 {
   font-family: "nimbus-sans-extended", sans-serif;
 }
 
+p {
+  font-family: "Maison-Book", sans-serif;
+}
+
+.sqs-block-button-container a {
+  font-family: "nimbus-sans-extended", sans-serif;
+}
+
 #section-hero {
   /*Video*/
 }

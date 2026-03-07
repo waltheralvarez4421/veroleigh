@@ -1,0 +1,22 @@
+#section-hero {
+  .sqs-block.video-block.sqs-block-video {
+    .sqs-block-content {
+      height: 100%;
+      .intrinsic {
+        height: 100%;
+        .embed-block-wrapper {
+          height: 100%;
+          .sqs-native-video {
+            height: 100%;
+            .native-video-player {
+              height: 100%;
+            }
+          }
+        }
+      }
+    }
+  }
+  .video-player .plyr video {
+    object-fit: cover;
+  }
+}

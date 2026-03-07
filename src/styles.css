@@ -1,16 +1,13 @@
-h1, h2 {
+#siteWrapper h1, #siteWrapper h2 {
   font-family: "GT-Super-Reg", serif;
 }
-
-h3, h4 {
+#siteWrapper h3, #siteWrapper h4 {
   font-family: "nimbus-sans-extended", sans-serif;
 }
-
-p {
+#siteWrapper p {
   font-family: "Maison-Book", sans-serif;
 }
-
-.sqs-block-button-container a {
+#siteWrapper .sqs-block-button-container a {
   font-family: "nimbus-sans-extended", sans-serif;
 }
 

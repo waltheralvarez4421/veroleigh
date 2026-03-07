@@ -39,12 +39,15 @@ body #siteWrapper #section-hero .video-player .plyr video {
 body #siteWrapper #section-hero {
   /* Left Col Content */
 }
+body #siteWrapper #section-hero h1 {
+  font-size: 4.427vw;
+  line-height: 1em !important;
+}
 body #siteWrapper #section-hero h4 {
   font-size: 0.938vw;
   font-weight: 700;
   line-height: 1.15em !important;
   text-transform: uppercase;
-  color: #7F2B29;
 }
 
 /*# sourceMappingURL=styles.css.map */

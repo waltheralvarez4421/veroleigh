@@ -42,12 +42,15 @@ body #siteWrapper {
       object-fit: cover;
     }
     /* Left Col Content */
+    h1 {
+      font-size:4.427vw;
+      line-height:1em !important;
+    }
     h4 {
       font-size:0.938vw;
       font-weight: 700;
       line-height:1.15em !important;
       text-transform: uppercase;
-      color:#7F2B29;
     }
   }
 }

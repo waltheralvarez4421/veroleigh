@@ -17,34 +17,36 @@ body #siteWrapper {
       letter-spacing: .050em;
     }
   }
-}
-#section-hero {
-  /*Video*/
-  .sqs-block.video-block.sqs-block-video {
-    .sqs-block-content {
-      height: 100%;
-      .intrinsic {
+
+  #section-hero {
+    /*Video*/
+    .sqs-block.video-block.sqs-block-video {
+      .sqs-block-content {
         height: 100%;
-        .embed-block-wrapper {
+        .intrinsic {
           height: 100%;
-          .sqs-native-video {
+          .embed-block-wrapper {
             height: 100%;
-            .native-video-player {
+            .sqs-native-video {
               height: 100%;
-              padding-top: 0;
+              .native-video-player {
+                height: 100%;
+                padding-top: 0;
+              }
             }
           }
         }
       }
     }
-  }
-  .video-player .plyr video {
-    object-fit: cover;
-  }
-  /* Left Col Content */
-  h4 {
-    font-size:0.938vw;
-    font-weight: 700;
-    line-height:1.15em;
+    .video-player .plyr video {
+      object-fit: cover;
+    }
+    /* Left Col Content */
+    h4 {
+      font-size:0.938vw;
+      font-weight: 700;
+      line-height:1.15em !important;
+      text-transform: uppercase;
+    }
   }
 }

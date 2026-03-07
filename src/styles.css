@@ -1,14 +1,18 @@
-#siteWrapper h1, #siteWrapper h2 {
+body #siteWrapper h1, body #siteWrapper h2 {
   font-family: "GT-Super-Reg", serif;
+  letter-spacing: -0.025em;
 }
-#siteWrapper h3, #siteWrapper h4 {
+body #siteWrapper h3, body #siteWrapper h4 {
   font-family: "nimbus-sans-extended", sans-serif;
+  letter-spacing: 0.15em;
 }
-#siteWrapper p {
+body #siteWrapper p {
   font-family: "Maison-Book", sans-serif;
+  letter-spacing: 0;
 }
-#siteWrapper .sqs-block-button-container a {
+body #siteWrapper .sqs-block-button-container a {
   font-family: "nimbus-sans-extended", sans-serif;
+  letter-spacing: 0.05em;
 }
 
 #section-hero {
@@ -35,6 +39,11 @@
 }
 #section-hero {
   /* Left Col Content */
+}
+#section-hero h4 {
+  font-size: 0.938vw;
+  font-weight: 700;
+  line-height: 1.15em;
 }
 
 /*# sourceMappingURL=styles.css.map */

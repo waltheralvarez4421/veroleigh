@@ -1,16 +1,20 @@
-#siteWrapper {
+body #siteWrapper {
   h1, h2 {
     font-family:'GT-Super-Reg', serif;
+    letter-spacing: -.025em;
   }
   h3, h4 {
     font-family: 'nimbus-sans-extended', sans-serif;
+    letter-spacing: .15em;
   }
   p {
     font-family: 'Maison-Book', sans-serif;
+    letter-spacing: 0;
   }
   .sqs-block-button-container {
     a {
       font-family: 'nimbus-sans-extended',sans-serif;
+      letter-spacing: .050em;
     }
   }
 }
@@ -38,5 +42,9 @@
     object-fit: cover;
   }
   /* Left Col Content */
-  
+  h4 {
+    font-size:0.938vw;
+    font-weight: 700;
+    line-height:1.15em;
+  }
 }

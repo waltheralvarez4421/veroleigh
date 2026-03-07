@@ -49,5 +49,9 @@ body #siteWrapper #section-hero h4 {
   line-height: 1.15em !important;
   text-transform: uppercase;
 }
+body #siteWrapper #section-hero p {
+  text-transform: none;
+  font-weight: 400;
+}
 
 /*# sourceMappingURL=styles.css.map */

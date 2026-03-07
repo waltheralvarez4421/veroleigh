@@ -52,5 +52,9 @@ body #siteWrapper {
       line-height:1.15em !important;
       text-transform: uppercase;
     }
+    p {
+      text-transform: none;
+      font-weight: 400;
+    }
   }
 }

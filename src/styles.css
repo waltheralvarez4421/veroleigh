@@ -1,3 +1,14 @@
+h1, h2 {
+  font-family: "GT-Super-Reg", serif;
+}
+
+h3, h4 {
+  font-family: "nimbus-sans-extended", sans-serif;
+}
+
+#section-hero {
+  /*Video*/
+}
 #section-hero .sqs-block.video-block.sqs-block-video .sqs-block-content {
   height: 100%;
 }
@@ -16,6 +27,9 @@
 }
 #section-hero .video-player .plyr video {
   object-fit: cover;
+}
+#section-hero {
+  /* Left Col Content */
 }
 
 /*# sourceMappingURL=styles.css.map */

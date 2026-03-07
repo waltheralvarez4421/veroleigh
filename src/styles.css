@@ -12,7 +12,7 @@
 }
 #section-hero .sqs-block.video-block.sqs-block-video .sqs-block-content .intrinsic .embed-block-wrapper .sqs-native-video .native-video-player {
   height: 100%;
-  padding: 0;
+  padding-top: 0;
 }
 #section-hero .video-player .plyr video {
   object-fit: cover;

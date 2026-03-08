@@ -1,69 +1,17 @@
-body #siteWrapper h1, body #siteWrapper h2 {
-  font-family: "GT-Super-Reg", serif;
-  letter-spacing: -0.025em;
-}
-body #siteWrapper h3, body #siteWrapper h4 {
-  font-family: "nimbus-sans-extended", sans-serif;
-  letter-spacing: 0.15em;
-}
-body #siteWrapper p {
-  font-family: "Maison-Book", sans-serif;
-  letter-spacing: 0;
-}
-body #siteWrapper .sqs-block-button-container a {
-  font-family: "nimbus-sans", sans-serif;
-  letter-spacing: 0.05em;
-}
-body #siteWrapper #section-hero {
-  /*Video*/
-}
-body #siteWrapper #section-hero .sqs-block.video-block.sqs-block-video .sqs-block-content {
-  height: 100%;
-}
-body #siteWrapper #section-hero .sqs-block.video-block.sqs-block-video .sqs-block-content .intrinsic {
-  height: 100%;
-}
-body #siteWrapper #section-hero .sqs-block.video-block.sqs-block-video .sqs-block-content .intrinsic .embed-block-wrapper {
-  height: 100%;
-}
-body #siteWrapper #section-hero .sqs-block.video-block.sqs-block-video .sqs-block-content .intrinsic .embed-block-wrapper .sqs-native-video {
-  height: 100%;
-}
-body #siteWrapper #section-hero .sqs-block.video-block.sqs-block-video .sqs-block-content .intrinsic .embed-block-wrapper .sqs-native-video .native-video-player {
-  height: 100%;
-  padding-top: 0;
-}
-body #siteWrapper #section-hero .video-player .plyr video {
-  object-fit: cover;
-}
-body #siteWrapper #section-hero {
-  /* Left Col Content */
-}
-body #siteWrapper #section-hero h1 {
-  font-size: 4.427vw;
-  line-height: 1em !important;
-}
-body #siteWrapper #section-hero h4 {
-  font-size: 0.938vw;
-  font-weight: 700;
-  line-height: 1.15em !important;
-  text-transform: uppercase;
-}
-body #siteWrapper #section-hero p {
-  text-transform: none;
-  font-weight: 400;
-}
-body #siteWrapper #section-hero a.sqs-block-button-element {
-  font-size: clamp(15px, 1.042vw, 22px);
-  font-weight: 700;
-  padding: 0;
-}
-body #siteWrapper #stats-section h2 {
-  font-size: 4.427vw;
-}
-body #siteWrapper #stats-section h4 {
-  font-size: 0.833vw;
-  font-weight: 700;
-}
+/* Error: unmatched "}".
+ *    ,
+ * 80 | }
+ *    | ^
+ *    '
+ *   src/styles.scss 80:1  root stylesheet */
 
-/*# sourceMappingURL=styles.css.map */
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: 'Error: unmatched "}".\a    \2577 \a 80 \2502  }\a    \2502  ^\a    \2575 \a   src/styles.scss 80:1  root stylesheet';
+}

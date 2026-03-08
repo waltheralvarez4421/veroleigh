@@ -56,6 +56,7 @@ body #siteWrapper #section-hero p {
 body #siteWrapper #section-hero a.sqs-block-button-element {
   font-size: 1.302vw;
   font-weight: 700;
+  padding: 0;
 }
 
 /*# sourceMappingURL=styles.css.map */

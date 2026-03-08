@@ -57,7 +57,7 @@ body #siteWrapper {
       font-weight: 400;
     }
      a.sqs-block-button-element {
-      font-size: 1.302vw;
+      font-size:clamp(15px, 1.042vw, 22px);
       font-weight:700;
       padding: 0;
      }

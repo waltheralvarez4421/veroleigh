@@ -53,7 +53,7 @@ body #siteWrapper #section-hero p {
   text-transform: none;
   font-weight: 400;
 }
-body #siteWrapper #section-hero a {
+body #siteWrapper #section-hero a.sqs-block-button-element {
   font-size: 1.302vw;
   font-weight: 700;
   letter-spacing: 0.05em;

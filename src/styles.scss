@@ -72,7 +72,7 @@ body #siteWrapper {
       font-weight: 700;
     }
     [data-sqsp-block="shape"] {
-      background: none;
+      --shape-block-background-color: transparent;
       border-right:1px solid #E2E2E4;
     }    
   }

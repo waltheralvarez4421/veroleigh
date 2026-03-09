@@ -1,4 +1,7 @@
 body #siteWrapper main#page {
+  :root {
+    --tweak-line-block-line-color:#E2E2E4;
+  }
   h1, h2, pre, code {
     font-family:'GT-Super-Reg', serif;
     letter-spacing: -.025em;

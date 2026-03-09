@@ -102,6 +102,9 @@ body #siteWrapper {
   #team-wrapper {
     .sqs-block-html .sqs-html-content {
       padding:0 1.563vw;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.625vw;
     }
     h4 {
       font-weight: 700;

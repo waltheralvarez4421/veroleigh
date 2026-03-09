@@ -90,6 +90,9 @@ body #siteWrapper #the-team a {
 }
 body #siteWrapper #team-wrapper .sqs-block-html .sqs-html-content {
   padding: 0 1.563vw;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.625vw;
 }
 body #siteWrapper #team-wrapper h4 {
   font-weight: 700;

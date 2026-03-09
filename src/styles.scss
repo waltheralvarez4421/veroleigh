@@ -98,4 +98,23 @@ body #siteWrapper {
       color:#242424;
     }
   }
+
+  #team-wrapper {
+    .sqs-block-html .sqs-html-content {
+      padding:0 1.563vw;
+    }
+    h4 {
+      font-weight: 700;
+      font-size: 1.302vw;
+      line-height: 1em;
+      text-transform: uppercase;
+      margin:0;
+    }
+    p {
+      font-size:0.938vw;
+      text-transform: none;
+      font-weight: 400;
+      margin:0;
+    }
+  }
 }

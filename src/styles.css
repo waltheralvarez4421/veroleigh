@@ -2,7 +2,7 @@ body #siteWrapper main#page h1, body #siteWrapper main#page h2, body #siteWrappe
   font-family: "GT-Super-Reg", serif;
   letter-spacing: -0.025em;
 }
-body #siteWrapper main#page h3, body #siteWrapper main#page h4 {
+body #siteWrapper main#page h3, body #siteWrapper main#page h4, body #siteWrapper main#page .accordion-item__title {
   font-family: "nimbus-sans-extended", sans-serif;
   letter-spacing: 0.15em;
 }
@@ -143,6 +143,26 @@ body #siteWrapper main#page #the-difference .sqs-html-content pre code {
   font-style: normal;
   font-size: 2.865vw;
   color: #CE4B2C;
+}
+body #siteWrapper main#page #faq-section h2 {
+  font-size: 5.208vw;
+  line-height: 1em !important;
+}
+body #siteWrapper main#page #faq-section h4 {
+  text-transform: uppercase;
+  font-size: 1.302vw;
+  line-height: 1em !important;
+  font-weight: 700;
+}
+body #siteWrapper main#page #faq-section p {
+  font-size: 1.563vw;
+  line-height: 1em !important;
+  font-weight: 400;
+  text-transform: none;
+}
+body #siteWrapper main#page #faq-section h4.accordion-item__title {
+  color: #FFFAEF;
+  font-size: 1.042vw;
 }
 
 /*# sourceMappingURL=styles.css.map */

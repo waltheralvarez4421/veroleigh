@@ -3,7 +3,7 @@ body #siteWrapper main#page {
     font-family:'GT-Super-Reg', serif;
     letter-spacing: -.025em;
   }
-  h3, h4 {
+  h3, h4, .accordion-item__title {
     font-family: 'nimbus-sans-extended', sans-serif;
     letter-spacing: .15em;
   }
@@ -162,6 +162,29 @@ body #siteWrapper main#page {
           color:#CE4B2C;
         }
       }
+    }
+  }
+
+  #faq-section {
+    h2 {
+      font-size: 5.208vw;
+      line-height: 1em !important;
+    }
+    h4 {
+      text-transform: uppercase;
+      font-size: 1.302vw;
+      line-height: 1em !important;
+      font-weight: 700;
+    }
+    p {
+      font-size: 1.563vw;
+      line-height: 1em !important;
+      font-weight: 400;
+      text-transform: none;
+    }
+    h4.accordion-item__title {
+      color: #FFFAEF;
+      font-size: 1.042vw;
     }
   }
 }

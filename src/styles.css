@@ -69,5 +69,10 @@ body #siteWrapper #stats-section [data-sqsp-block=shape] {
   --shape-block-background-color: transparent;
   border-right: 1px solid #E2E2E4;
 }
+body #siteWrapper #the-team h4 {
+  font-weight: 700;
+  font-size: 1.302vw;
+  line-height: 1em;
+}
 
 /*# sourceMappingURL=styles.css.map */

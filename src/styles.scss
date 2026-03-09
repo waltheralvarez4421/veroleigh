@@ -186,8 +186,11 @@ body #siteWrapper main#page {
       font-size: 1.042vw;
     }
     .accordion-item__dropdown {
-      p {
-        font-size: 0.938vw;
+      .accordion-item__description {
+        max-width: 100% !important;
+        p {
+          font-size: 0.938vw;
+        }
       }
     }
   }

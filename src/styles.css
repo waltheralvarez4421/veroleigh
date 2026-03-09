@@ -163,7 +163,10 @@ body #siteWrapper main#page #faq-section span.accordion-item__title {
   color: #FFFAEF;
   font-size: 1.042vw;
 }
-body #siteWrapper main#page #faq-section .accordion-item__dropdown p {
+body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description {
+  max-width: 100% !important;
+}
+body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description p {
   font-size: 0.938vw;
 }
 

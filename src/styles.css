@@ -163,5 +163,8 @@ body #siteWrapper main#page #faq-section span.accordion-item__title {
   color: #FFFAEF;
   font-size: 1.042vw;
 }
+body #siteWrapper main#page #faq-section .accordion-item__dropdown p {
+  font-size: 0.938vw;
+}
 
 /*# sourceMappingURL=styles.css.map */

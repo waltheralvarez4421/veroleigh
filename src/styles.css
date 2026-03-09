@@ -100,12 +100,19 @@ body #siteWrapper #team-wrapper h4 {
   line-height: 1em;
   text-transform: uppercase;
   margin: 0;
+  width: 100%;
 }
 body #siteWrapper #team-wrapper p {
   font-size: 0.938vw;
   text-transform: none;
   font-weight: 400;
   margin: 0;
+}
+body #siteWrapper #the-difference h3 {
+  font-weight: 700;
+  font-size: 1.302vw;
+  line-height: 1em;
+  text-transform: uppercase;
 }
 
 /*# sourceMappingURL=styles.css.map */

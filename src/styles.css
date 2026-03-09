@@ -13,7 +13,7 @@ body #siteWrapper p {
 body #siteWrapper .sqs-block-button-container a {
   font-family: "nimbus-sans", sans-serif;
   letter-spacing: 0.05em;
-  padding: 1.125rem 0;
+  padding: 0.5rem 0;
 }
 body #siteWrapper #section-hero {
   /*Video*/

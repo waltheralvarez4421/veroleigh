@@ -75,5 +75,17 @@ body #siteWrapper #the-team h4 {
   line-height: 1em;
   text-transform: uppercase;
 }
+body #siteWrapper #the-team h1 {
+  font-size: 4.427vw;
+  font-weight: 400;
+  line-height: 1em !important;
+}
+body #siteWrapper #the-team p {
+  text-transform: none;
+  font-weight: 400;
+}
+body #siteWrapper #the-team a {
+  color: #242424;
+}
 
 /*# sourceMappingURL=styles.css.map */

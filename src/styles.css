@@ -128,6 +128,10 @@ body #siteWrapper #the-difference h4 {
 body #siteWrapper #the-difference p {
   text-transform: none;
   font-weight: 400;
+  font-size: 1.302vw;
+}
+body #siteWrapper #the-difference .fe-block-yui_3_17_2_1_1773075180429_1476049 {
+  grid-area: 18/2/22/4 !important;
 }
 
 /*# sourceMappingURL=styles.css.map */

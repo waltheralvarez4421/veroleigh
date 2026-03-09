@@ -1,4 +1,4 @@
-body #siteWrapper h1, body #siteWrapper h2 {
+body #siteWrapper h1, body #siteWrapper h2, body #siteWrapper pre, body #siteWrapper code {
   font-family: "GT-Super-Reg", serif;
   letter-spacing: -0.025em;
 }
@@ -138,6 +138,11 @@ body #siteWrapper #the-difference .fe-block-yui_3_17_2_1_1773075180429_1476049 .
   justify-content: center;
   align-items: center;
   align-content: center;
+}
+body #siteWrapper #the-difference .sqs-html-content pre code {
+  font-style: normal;
+  font-size: 2.865vw;
+  color: #CE4B2C;
 }
 
 /*# sourceMappingURL=styles.css.map */

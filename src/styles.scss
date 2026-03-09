@@ -1,5 +1,5 @@
 body #siteWrapper {
-  h1, h2 {
+  h1, h2, pre, code {
     font-family:'GT-Super-Reg', serif;
     letter-spacing: -.025em;
   }
@@ -152,6 +152,15 @@ body #siteWrapper {
         justify-content: center;
         align-items: center;
         align-content: center;
+      }
+    }
+    .sqs-html-content {
+      pre {
+        code {
+          font-style: normal;
+          font-size:2.865vw;
+          color:#CE4B2C;
+        }
       }
     }
   }

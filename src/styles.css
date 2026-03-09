@@ -133,5 +133,11 @@ body #siteWrapper #the-difference p {
 body #siteWrapper #the-difference .fe-block-yui_3_17_2_1_1773075180429_1476049 {
   grid-area: 18/2/22/4 !important;
 }
+body #siteWrapper #the-difference .fe-block-yui_3_17_2_1_1773075180429_1476049 .sqs-block-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
 
 /*# sourceMappingURL=styles.css.map */

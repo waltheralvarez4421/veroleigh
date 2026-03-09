@@ -160,7 +160,7 @@ body #siteWrapper main#page #faq-section p {
   font-weight: 400;
   text-transform: none;
 }
-body #siteWrapper main#page #faq-section h4.accordion-item__title {
+body #siteWrapper main#page #faq-section span.accordion-item__title {
   color: #FFFAEF;
   font-size: 1.042vw;
 }

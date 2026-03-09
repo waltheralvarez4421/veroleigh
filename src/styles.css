@@ -1,4 +1,4 @@
-body #siteWrapper main#page :root {
+body #siteWrapper main#page {
   --tweak-line-block-line-color:#E2E2E4;
 }
 body #siteWrapper main#page h1, body #siteWrapper main#page h2, body #siteWrapper main#page pre, body #siteWrapper main#page code {

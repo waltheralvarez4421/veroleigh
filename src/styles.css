@@ -156,7 +156,6 @@ body #siteWrapper main#page #faq-section h4 {
 }
 body #siteWrapper main#page #faq-section p {
   font-size: 1.563vw;
-  line-height: 1em !important;
   font-weight: 400;
   text-transform: none;
 }

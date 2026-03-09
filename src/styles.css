@@ -108,14 +108,25 @@ body #siteWrapper #team-wrapper p {
   font-weight: 400;
   margin: 0;
 }
+body #siteWrapper #the-difference h2 {
+  font-size: 2.865vw;
+  font-weight: 400;
+  line-height: 1em !important;
+}
 body #siteWrapper #the-difference h3 {
   font-weight: 700;
   font-size: 1.302vw;
   line-height: 1em;
   text-transform: uppercase;
 }
-body #siteWrapper #the-difference h2 {
-  font-size: 2.865vw;
+body #siteWrapper #the-difference h4 {
+  font-weight: 700;
+  font-size: 1.042vw;
+  line-height: 1em;
+  text-transform: uppercase;
+}
+body #siteWrapper #the-difference p {
+  text-transform: none;
   font-weight: 400;
 }
 

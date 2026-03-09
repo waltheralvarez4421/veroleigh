@@ -73,7 +73,7 @@ body #siteWrapper #stats-section [data-sqsp-block=shape] {
 body #siteWrapper #the-team h4 {
   font-weight: 700;
   font-size: 1.302vw;
-  line-height: 1em;
+  line-height: 1em !important;
   text-transform: uppercase;
 }
 body #siteWrapper #the-team h2 {
@@ -97,7 +97,7 @@ body #siteWrapper #team-wrapper .sqs-block-html .sqs-html-content {
 body #siteWrapper #team-wrapper h4 {
   font-weight: 700;
   font-size: 1.302vw;
-  line-height: 1em;
+  line-height: 1em !important;
   text-transform: uppercase;
   margin: 0;
   width: 100%;
@@ -116,13 +116,13 @@ body #siteWrapper #the-difference h2 {
 body #siteWrapper #the-difference h3 {
   font-weight: 700;
   font-size: 1.302vw;
-  line-height: 1em;
+  line-height: 1em !important;
   text-transform: uppercase;
 }
 body #siteWrapper #the-difference h4 {
   font-weight: 700;
   font-size: 1.042vw;
-  line-height: 1em;
+  line-height: 1em !important;
   text-transform: uppercase;
 }
 body #siteWrapper #the-difference p {

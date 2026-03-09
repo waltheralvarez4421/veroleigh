@@ -82,7 +82,7 @@ body #siteWrapper {
     h4 {
       font-weight: 700;
       font-size: 1.302vw;
-      line-height: 1em;
+      line-height: 1em !important;
       text-transform: uppercase;
     }
     h2 {
@@ -109,7 +109,7 @@ body #siteWrapper {
     h4 {
       font-weight: 700;
       font-size: 1.302vw;
-      line-height: 1em;
+      line-height: 1em !important;
       text-transform: uppercase;
       margin:0;
       width: 100%;
@@ -131,13 +131,13 @@ body #siteWrapper {
     h3 {
       font-weight: 700;
       font-size: 1.302vw;
-      line-height: 1em;
+      line-height: 1em !important;
       text-transform: uppercase;
     }
     h4 {
       font-weight: 700;
       font-size: 1.042vw;
-      line-height: 1em;
+      line-height: 1em !important;
       text-transform: uppercase;
     }
     p {

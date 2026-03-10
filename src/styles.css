@@ -218,6 +218,11 @@ body #siteWrapper main#page #offering h3 {
   letter-spacing: 0.05em;
   font-family: "nimbus-sans", sans-serif;
 }
+body #siteWrapper main#page #offering h4 {
+  font: normal normal bold 1.042vw/1em "nimbus-sans";
+  line-height: 1em !important;
+  letter-spacing: 0.05em;
+}
 body #siteWrapper main#page #offering p.sqsrte-large {
   font-size: 0.938vw;
   font-weight: 400;
@@ -226,7 +231,7 @@ body #siteWrapper main#page #offering [data-shape-name=rectangle][data-blend-mod
   border-left: 9px solid #CE4B2C;
 }
 body #siteWrapper main#page #offering .sqs-html-content pre code {
-  font: normal normal bold 1.823vw/1em Nimbus Sans;
+  font: normal normal bold 1.823vw/1em "nimbus-sans";
   line-height: 1em !important;
   color: #CE4B2C;
 }

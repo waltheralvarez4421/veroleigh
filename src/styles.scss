@@ -237,6 +237,11 @@ body #siteWrapper main#page {
       letter-spacing: .05em;
       font-family: 'nimbus-sans', sans-serif;
     }
+    h4 {
+      font: normal normal bold 1.042vw/1em 'nimbus-sans';
+      line-height: 1em !important;
+      letter-spacing: .05em;
+    }
     p {
       &.sqsrte-large {
         font-size:0.938vw;
@@ -249,7 +254,7 @@ body #siteWrapper main#page {
     .sqs-html-content {
       pre {
         code {
-          font: normal normal bold 1.823vw/1em Nimbus Sans;
+          font: normal normal bold 1.823vw/1em 'nimbus-sans';
           line-height: 1em !important;
           color: #CE4B2C;
         }

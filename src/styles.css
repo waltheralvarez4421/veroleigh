@@ -222,5 +222,8 @@ body #siteWrapper main#page #offering p.sqsrte-large {
   font-size: 0.938vw;
   font-weight: 400;
 }
+body #siteWrapper main#page #offering [data-shape-name=rectangle][data-blend-mode=lighten] {
+  border-left: 3px solid #CE4B2C;
+}
 
 /*# sourceMappingURL=styles.css.map */

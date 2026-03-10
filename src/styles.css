@@ -99,13 +99,15 @@ body #siteWrapper main#page #the-team a,
 body #siteWrapper main#page #reviews a {
   color: #242424;
 }
-body #siteWrapper main#page #team-wrapper .sqs-block-html .sqs-html-content {
+body #siteWrapper main#page #team-wrapper .sqs-block-html .sqs-html-content,
+body #siteWrapper main#page #offering .sqs-block-html .sqs-html-content {
   padding: 0 1.563vw;
   display: flex;
   flex-wrap: wrap;
   gap: 0.625vw;
 }
-body #siteWrapper main#page #team-wrapper h4 {
+body #siteWrapper main#page #team-wrapper h4,
+body #siteWrapper main#page #offering h4 {
   font-weight: 700;
   font-size: 1.302vw;
   line-height: 1em !important;
@@ -113,7 +115,8 @@ body #siteWrapper main#page #team-wrapper h4 {
   margin: 0;
   width: 100%;
 }
-body #siteWrapper main#page #team-wrapper p {
+body #siteWrapper main#page #team-wrapper p,
+body #siteWrapper main#page #offering p {
   font-size: 0.938vw;
   text-transform: none;
   font-weight: 400;

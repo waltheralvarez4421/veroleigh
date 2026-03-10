@@ -104,7 +104,9 @@ body #siteWrapper main#page {
     }
   }
 
-  #team-wrapper {
+  #team-wrapper,
+  #offering
+   {
     .sqs-block-html .sqs-html-content {
       padding:0 1.563vw;
       display: flex;

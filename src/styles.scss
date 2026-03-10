@@ -208,7 +208,7 @@ body #siteWrapper main#page {
       .accordion-item[data-is-open="true"] {
         .accordion-icon-container {
           transform: rotateZ(45deg);
-          border-bottom: #CE4B2C;
+          border-color: #CE4B2C;
         }
         .plus {
           transform: rotate(45deg);

@@ -184,7 +184,7 @@ body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-icon-co
 }
 body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .accordion-icon-container {
   transform: rotateZ(45deg);
-  border-bottom: #CE4B2C;
+  border-color: #CE4B2C;
 }
 body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus {
   transform: rotate(45deg);

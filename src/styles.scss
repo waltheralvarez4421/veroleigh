@@ -209,8 +209,11 @@ body #siteWrapper main#page {
         .accordion-icon-container {
           transform: rotateZ(45deg);
         }
-        .plus__vertical-line {
+        .plus {
           transform: rotate(45deg);
+        }
+        .plus__vertical-line {
+          transform: rotate(0deg);
         }
       }
     }

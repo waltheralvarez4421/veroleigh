@@ -185,8 +185,11 @@ body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-icon-co
 body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .accordion-icon-container {
   transform: rotateZ(45deg);
 }
-body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus__vertical-line {
+body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus {
   transform: rotate(45deg);
+}
+body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus__vertical-line {
+  transform: rotate(0deg);
 }
 
 /*# sourceMappingURL=styles.css.map */

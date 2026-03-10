@@ -244,7 +244,16 @@ body #siteWrapper main#page {
       }
     }
     [data-shape-name="rectangle"][data-blend-mode="lighten"] {
-      border-left:3px solid #CE4B2C;
+      border-left:9px solid #CE4B2C;
+    }
+    .sqs-html-content {
+      pre {
+        code {
+          font: normal normal bold 1.823vw/1em Nimbus Sans;
+          line-height: 1em !important;
+          color: #CE4B2C;
+        }
+      }
     }
   }
 }

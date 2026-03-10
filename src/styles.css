@@ -223,7 +223,12 @@ body #siteWrapper main#page #offering p.sqsrte-large {
   font-weight: 400;
 }
 body #siteWrapper main#page #offering [data-shape-name=rectangle][data-blend-mode=lighten] {
-  border-left: 3px solid #CE4B2C;
+  border-left: 9px solid #CE4B2C;
+}
+body #siteWrapper main#page #offering .sqs-html-content pre code {
+  font: normal normal bold 1.823vw/1em Nimbus Sans;
+  line-height: 1em !important;
+  color: #CE4B2C;
 }
 
 /*# sourceMappingURL=styles.css.map */

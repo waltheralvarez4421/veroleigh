@@ -211,6 +211,7 @@ body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[da
 body #siteWrapper main#page #offering h3 {
   font-size: 1.042vw;
   border: 1px solid #CE4B2C;
+  padding: 0.35rem 0;
 }
 body #siteWrapper main#page #offering p.sqsrte-large {
   font-size: 0.938vw;

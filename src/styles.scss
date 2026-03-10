@@ -225,4 +225,13 @@ body #siteWrapper main#page {
       }
     }
   }
+
+  #offering {
+    p {
+      &.sqsrte-large {
+        font-size:0.938vw;
+        font-weight:400;
+      }
+    }
+  }
 }

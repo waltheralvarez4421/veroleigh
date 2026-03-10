@@ -196,12 +196,18 @@ body #siteWrapper main#page {
     }
     .sqs-block-accordion {
       .accordion-icon-container {
-        width:2rem !important;
-        height: 2rem !important;
+        max-width: 3.177vw !important;
+        max-height: 3.177vw !important;
+        padding: 0.885vw;
+        border: 1px solid #FFFAEF;
+        transition: all .5s ease;
       }
       .accordion-item[data-is-open="true"] {
+        .accordion-icon-container {
+          transform: rotateZ(45deg);
+        }
         .plus__vertical-line {
-          transform: rotate(90deg);
+          transform: rotate(45deg);
         }
       }
     }

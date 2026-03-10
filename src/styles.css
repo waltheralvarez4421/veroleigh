@@ -173,11 +173,17 @@ body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-it
   font-size: 0.938vw;
 }
 body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-icon-container {
-  width: 2rem !important;
-  height: 2rem !important;
+  max-width: 3.177vw !important;
+  max-height: 3.177vw !important;
+  padding: 0.885vw;
+  border: 1px solid #FFFAEF;
+  transition: all 0.5s ease;
+}
+body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .accordion-icon-container {
+  transform: rotateZ(45deg);
 }
 body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus__vertical-line {
-  transform: rotate(90deg);
+  transform: rotate(45deg);
 }
 
 /*# sourceMappingURL=styles.css.map */

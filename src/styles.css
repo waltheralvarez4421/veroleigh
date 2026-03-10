@@ -172,5 +172,8 @@ body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-it
 body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description p {
   font-size: 0.938vw;
 }
+body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus__vertical-line {
+  transform: rotate(90deg);
+}
 
 /*# sourceMappingURL=styles.css.map */

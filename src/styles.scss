@@ -194,5 +194,12 @@ body #siteWrapper main#page {
         }
       }
     }
+    .sqs-block-accordion {
+      .accordion-item[data-is-open="true"] {
+        .plus__vertical-line {
+          transform: rotate(90deg);
+        }
+      }
+    }
   }
 }

@@ -80,6 +80,10 @@ body #siteWrapper main#page #reviews h4 {
   line-height: 1em !important;
   text-transform: uppercase;
 }
+body #siteWrapper main#page #the-team h3,
+body #siteWrapper main#page #reviews h3 {
+  font-size: 15.625vw;
+}
 body #siteWrapper main#page #the-team h2,
 body #siteWrapper main#page #reviews h2 {
   font-size: 4.427vw;

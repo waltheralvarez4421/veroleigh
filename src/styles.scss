@@ -201,6 +201,9 @@ body #siteWrapper main#page {
         padding: 0.885vw;
         border: 1px solid #FFFAEF;
         transition: all .5s ease;
+        &>*{
+          position: relative;
+        }
       }
       .accordion-item[data-is-open="true"] {
         .accordion-icon-container {

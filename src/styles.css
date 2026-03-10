@@ -189,7 +189,7 @@ body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[da
   transform: rotate(45deg);
 }
 body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus__vertical-line {
-  transform: rotate(0deg);
+  transform: rotate(90deg);
 }
 
 /*# sourceMappingURL=styles.css.map */

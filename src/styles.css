@@ -73,22 +73,26 @@ body #siteWrapper main#page #stats-section [data-sqsp-block=shape] {
   --shape-block-background-color: transparent;
   border-right: 1px solid #E2E2E4;
 }
-body #siteWrapper main#page #the-team h4 {
+body #siteWrapper main#page #the-team h4,
+body #siteWrapper main#page #reviews h4 {
   font-weight: 700;
   font-size: 1.302vw;
   line-height: 1em !important;
   text-transform: uppercase;
 }
-body #siteWrapper main#page #the-team h2 {
+body #siteWrapper main#page #the-team h2,
+body #siteWrapper main#page #reviews h2 {
   font-size: 4.427vw;
   font-weight: 400;
   line-height: 1em !important;
 }
-body #siteWrapper main#page #the-team p {
+body #siteWrapper main#page #the-team p,
+body #siteWrapper main#page #reviews p {
   text-transform: none;
   font-weight: 400;
 }
-body #siteWrapper main#page #the-team a {
+body #siteWrapper main#page #the-team a,
+body #siteWrapper main#page #reviews a {
   color: #242424;
 }
 body #siteWrapper main#page #team-wrapper .sqs-block-html .sqs-html-content {

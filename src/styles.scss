@@ -195,6 +195,10 @@ body #siteWrapper main#page {
       }
     }
     .sqs-block-accordion {
+      .accordion-icon-container {
+        width:2rem !important;
+        height: 2rem !important;
+      }
       .accordion-item[data-is-open="true"] {
         .plus__vertical-line {
           transform: rotate(90deg);

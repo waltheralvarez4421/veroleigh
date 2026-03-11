@@ -366,6 +366,19 @@ body #siteWrapper main#page #mu-edit-open-section {
   opacity: 0;
   transition: all 0.5s ease;
 }
+body #siteWrapper main#page #basic-af-open-section .new,
+body #siteWrapper main#page #bougie-af-open-section .new,
+body #siteWrapper main#page #extra-af-open-section .new,
+body #siteWrapper main#page #mu-edit-open-section .new {
+  opacity: 1;
+  transition: all 0.2s ease;
+}
+body #siteWrapper main#page #basic-af-open-section .new:hover,
+body #siteWrapper main#page #bougie-af-open-section .new:hover,
+body #siteWrapper main#page #extra-af-open-section .new:hover,
+body #siteWrapper main#page #mu-edit-open-section .new:hover {
+  opacity: 0;
+}
 body #siteWrapper main#page #basic-af-open-section h3,
 body #siteWrapper main#page #bougie-af-open-section h3,
 body #siteWrapper main#page #extra-af-open-section h3,

@@ -343,6 +343,13 @@ body #siteWrapper main#page {
     height:0;
     opacity: 0;
     transition: all .5s ease;
+    .new {
+      opacity: 1;
+      transition: all .2s ease;
+      &:hover {
+        opacity: 0;
+      }
+    }
     h3 {
       opacity: .45;
       font-weight: 700;

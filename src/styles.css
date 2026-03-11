@@ -254,17 +254,11 @@ body #siteWrapper main#page #basic-af-trigger-section h2 {
   line-height: 1em !important;
   transition: color 0.2s ease;
 }
-body #siteWrapper main#page #basic-af-trigger-section h2 span {
-  color: inherit;
-}
 body #siteWrapper main#page #basic-af-trigger-section h3, body #siteWrapper main#page #basic-af-trigger-section h4 {
   font-weight: 700;
   font-size: 0.938vw;
   line-height: 1em !important;
   transition: color 0.2s ease;
-}
-body #siteWrapper main#page #basic-af-trigger-section h3 span, body #siteWrapper main#page #basic-af-trigger-section h4 span {
-  color: inherit;
 }
 body #siteWrapper main#page #basic-af-trigger-section p {
   font-size: 1.042vw;
@@ -286,10 +280,10 @@ body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-small {
   font-weight: 700;
   transition: color 0.2s ease;
 }
-body #siteWrapper main#page #basic-af-trigger-section.open-service h2, body #siteWrapper main#page #basic-af-trigger-section.open-service h4, body #siteWrapper main#page #basic-af-trigger-section.open-service p:not(.sqsrte-small) {
+body #siteWrapper main#page #basic-af-trigger-section.open-service h2 span, body #siteWrapper main#page #basic-af-trigger-section.open-service h4 span, body #siteWrapper main#page #basic-af-trigger-section.open-service p:not(.sqsrte-small) span {
   color: #FFFAEF;
 }
-body #siteWrapper main#page #basic-af-trigger-section.open-service h3 {
+body #siteWrapper main#page #basic-af-trigger-section.open-service h3 span {
   color: #CE4B2C;
 }
 body #siteWrapper main#page #basic-af-trigger-section.open-service p.sqsrte-large {

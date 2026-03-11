@@ -280,18 +280,12 @@ body #siteWrapper main#page {
       font-size: 4.427vw;
       line-height: 1em !important;
       transition: color .2s ease;
-      span {
-        color:inherit;
-      }
     }
     h3, h4 {
       font-weight: 700;
       font-size: 0.938vw;
       line-height: 1em !important;
       transition: color .2s ease;
-      span {
-        color:inherit;
-      }
     }
     p {
       font-size:1.042vw;
@@ -315,10 +309,14 @@ body #siteWrapper main#page {
     }
     &.open-service {
       h2, h4, p:not(.sqsrte-small) {
-        color:#FFFAEF;
+        span {
+          color:#FFFAEF;
+        }
       }
       h3 {
-        color: #CE4B2C;
+        span {
+          color: #CE4B2C;
+        }
       } 
       p {
         &.sqsrte-large {

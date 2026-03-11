@@ -458,5 +458,8 @@ body #siteWrapper main#page #mu-edit-open-section.open-service {
   height: 100%;
   opacity: 1;
 }
+body #siteWrapper main#page #add-ons h2 {
+  font-size: 3.385vw;
+}
 
 /*# sourceMappingURL=styles.css.map */

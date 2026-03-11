@@ -1,3 +1,7 @@
+body {
+  background: #E6DED0;
+}
+
 body #siteWrapper main#page {
   --tweak-line-block-line-color:#E2E2E4;
 }

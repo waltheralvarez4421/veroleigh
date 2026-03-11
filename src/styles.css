@@ -280,6 +280,9 @@ body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-small {
   font-weight: 700;
   transition: color 0.2s ease;
 }
+body #siteWrapper main#page #basic-af-trigger-section.open-service h2, body #siteWrapper main#page #basic-af-trigger-section.open-service h4, body #siteWrapper main#page #basic-af-trigger-section.open-service p:not(.sqsrte-small) {
+  color: #FFFAEF;
+}
 body #siteWrapper main#page #basic-af-trigger-section.open-service h2 span, body #siteWrapper main#page #basic-af-trigger-section.open-service h4 span, body #siteWrapper main#page #basic-af-trigger-section.open-service p:not(.sqsrte-small) span {
   color: #FFFAEF;
 }

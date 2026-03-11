@@ -271,4 +271,28 @@ body #siteWrapper main#page {
       font-size:3.385vw;
     }
   }
+
+  #basic-af-title-section {
+    h2 {
+      font-size: 4.427vw;
+      line-height: 1em !important;
+    }
+    h3, h4 {
+      font-weight: 700;
+      font-size: 0.938vw;
+      line-height: 1em !important;
+    }
+    h4 {
+
+    }
+    p {
+      font-size:1.042vw;
+      font-weight: 300;
+      line-height: 1em !important;
+      &.sqsrte-large {
+        font-size:0.938vw;
+        font-weight:400;
+      }
+    }
+  }
 }

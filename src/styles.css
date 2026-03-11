@@ -310,6 +310,12 @@ body #siteWrapper main#page #mu-edit-trigger-section p.sqsrte-small {
   font-weight: 700;
   transition: color 0.2s ease;
 }
+body #siteWrapper main#page #basic-af-trigger-section [data-sqsp-shape-block-shape],
+body #siteWrapper main#page #bougie-af-trigger-section [data-sqsp-shape-block-shape],
+body #siteWrapper main#page #extra-af-trigger-section [data-sqsp-shape-block-shape],
+body #siteWrapper main#page #mu-edit-trigger-section [data-sqsp-shape-block-shape] {
+  border-bottom: 1px solid rgba(36, 36, 36, 0.1843137255);
+}
 body #siteWrapper main#page #basic-af-trigger-section.open-service h2, body #siteWrapper main#page #basic-af-trigger-section.open-service h4, body #siteWrapper main#page #basic-af-trigger-section.open-service p:not(.sqsrte-small),
 body #siteWrapper main#page #bougie-af-trigger-section.open-service h2,
 body #siteWrapper main#page #bougie-af-trigger-section.open-service h4,

@@ -311,6 +311,9 @@ body #siteWrapper main#page {
         transition: color .2s ease;
       }
     }
+    [data-sqsp-shape-block-shape] {
+      border-bottom: 1px solid #2424242f;
+    }
     &.open-service {
       h2, h4, p:not(.sqsrte-small) {
         color:#FFFAEF;

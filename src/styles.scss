@@ -339,21 +339,6 @@ body #siteWrapper main#page {
     h4 {
 
     }
-    ul[data-rte-list] li>*:first-child::before {
-      content: unset;
-    }
-    ul {
-      padding: 0;
-      padding-right: 10px;
-      li {
-        p {
-          span {
-            font-size: 1.042vw;
-            font-weight: 400;
-          }
-        }
-      }
-    }
     p {
       font-size: 1.042vw;
       font-weight: 400;
@@ -366,8 +351,12 @@ body #siteWrapper main#page {
         opacity: .45;
       }
     }
-    hr {
-
+    .sqs-block-horizontalrule {
+      hr {
+        background-color: #E2E2E4;
+        margin-top: 0;
+        opacity:.2;
+      }
     }
   }
 }

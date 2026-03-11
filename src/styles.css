@@ -346,17 +346,6 @@ body #siteWrapper main#page #basic-af-open-section h3 {
   font-weight: 700;
   font-size: 0.833vw;
 }
-body #siteWrapper main#page #basic-af-open-section ul[data-rte-list] li > *:first-child::before {
-  content: unset;
-}
-body #siteWrapper main#page #basic-af-open-section ul {
-  padding: 0;
-  padding-right: 10px;
-}
-body #siteWrapper main#page #basic-af-open-section ul li p span {
-  font-size: 1.042vw;
-  font-weight: 400;
-}
 body #siteWrapper main#page #basic-af-open-section p {
   font-size: 1.042vw;
   font-weight: 400;
@@ -368,6 +357,11 @@ body #siteWrapper main#page #basic-af-open-section p .sqsrte-small {
 body #siteWrapper main#page #basic-af-open-section p .sqsrte-large {
   font-size: 0.938vw;
   opacity: 0.45;
+}
+body #siteWrapper main#page #basic-af-open-section .sqs-block-horizontalrule hr {
+  background-color: #E2E2E4;
+  margin-top: 0;
+  opacity: 0.2;
 }
 
 /*# sourceMappingURL=styles.css.map */

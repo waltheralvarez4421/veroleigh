@@ -350,11 +350,11 @@ body #siteWrapper main#page #basic-af-open-section p {
   font-size: 1.042vw;
   font-weight: 400;
 }
-body #siteWrapper main#page #basic-af-open-section p .sqsrte-small {
+body #siteWrapper main#page #basic-af-open-section p.sqsrte-small {
   margin: 0.5rem 0;
   padding: 0 10px 0 0;
 }
-body #siteWrapper main#page #basic-af-open-section p .sqsrte-large {
+body #siteWrapper main#page #basic-af-open-section p.sqsrte-large {
   font-size: 0.938vw;
   opacity: 0.45;
 }

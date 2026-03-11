@@ -342,11 +342,11 @@ body #siteWrapper main#page {
     p {
       font-size: 1.042vw;
       font-weight: 400;
-      .sqsrte-small {
+      &.sqsrte-small {
         margin: .5rem 0;;
         padding: 0 10px 0 0;
       }
-      .sqsrte-large {
+      &.sqsrte-large {
         font-size:0.938vw;
         opacity: .45;
       }

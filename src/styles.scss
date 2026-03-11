@@ -273,6 +273,9 @@ body #siteWrapper main#page {
   }
 
   #basic-af-trigger-section {
+    [data-sqsp-shape-block-shape] {
+      transition: all .2s ease;
+    }
     h2 {
       font-size: 4.427vw;
       line-height: 1em !important;
@@ -315,6 +318,9 @@ body #siteWrapper main#page {
         &.sqsrte-large {
           color: #CE4B2C;
         }
+      }
+      [data-sqsp-shape-block-shape] {
+        background: #242424;
       }
     }
   }

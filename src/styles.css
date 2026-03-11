@@ -246,6 +246,9 @@ body #siteWrapper main#page #offering .sqs-html-content pre code {
 body #siteWrapper main#page #packages-title-section h2 {
   font-size: 3.385vw;
 }
+body #siteWrapper main#page #basic-af-trigger-section [data-sqsp-shape-block-shape] {
+  transition: all 0.2s ease;
+}
 body #siteWrapper main#page #basic-af-trigger-section h2 {
   font-size: 4.427vw;
   line-height: 1em !important;
@@ -285,6 +288,9 @@ body #siteWrapper main#page #basic-af-trigger-section.open-service h3 {
 }
 body #siteWrapper main#page #basic-af-trigger-section.open-service p.sqsrte-large {
   color: #CE4B2C;
+}
+body #siteWrapper main#page #basic-af-trigger-section.open-service [data-sqsp-shape-block-shape] {
+  background: #242424;
 }
 
 /*# sourceMappingURL=styles.css.map */

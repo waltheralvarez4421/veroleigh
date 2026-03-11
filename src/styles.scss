@@ -276,6 +276,7 @@ body #siteWrapper main#page {
   #bougie-af-trigger-section,
   #extra-af-trigger-section,
   #mu-edit-trigger-section {
+    cursor: pointer;
     [data-sqsp-shape-block-shape] {
       transition: all .2s ease;
     }

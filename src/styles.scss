@@ -313,10 +313,10 @@ body #siteWrapper main#page {
       }
     }
     [data-sqsp-shape-block-shape] {
-      border-bottom: 1px solid #2424242f;
+      border: 1px solid #2424242f;
     }
     &.open-service {
-      border-bottom-color: transparent;
+      border-color: transparent;
       h2, h4, p:not(.sqsrte-small) {
         color:#FFFAEF;
         span {

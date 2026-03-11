@@ -316,7 +316,9 @@ body #siteWrapper main#page {
       border: 1px solid #2424242f;
     }
     &.open-service {
-      border: none;
+      [data-sqsp-shape-block-shape] {
+        border: none;
+      }
       h2, h4, p:not(.sqsrte-small) {
         color:#FFFAEF;
         span {

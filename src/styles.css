@@ -278,7 +278,6 @@ body #siteWrapper main#page #extra-af-trigger-section p,
 body #siteWrapper main#page #mu-edit-trigger-section p {
   font-size: 1.042vw;
   font-weight: 300;
-  line-height: 1em !important;
   transition: color 0.2s ease;
 }
 body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-large,

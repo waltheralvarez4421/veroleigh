@@ -341,5 +341,19 @@ body #siteWrapper main#page #extra-af-trigger-section.open-service [data-sqsp-sh
 body #siteWrapper main#page #mu-edit-trigger-section.open-service [data-sqsp-shape-block-shape] {
   background: #242424;
 }
+body #siteWrapper main#page #basic-af-trigger-section #basic-af-open-section h3,
+body #siteWrapper main#page #bougie-af-trigger-section #basic-af-open-section h3,
+body #siteWrapper main#page #extra-af-trigger-section #basic-af-open-section h3,
+body #siteWrapper main#page #mu-edit-trigger-section #basic-af-open-section h3 {
+  opacity: 0.45;
+  font-weight: 700;
+  font-size: 0.833vw;
+}
+body #siteWrapper main#page #basic-af-trigger-section #basic-af-open-section ul[data-rte-list] li > *:first-child::before,
+body #siteWrapper main#page #bougie-af-trigger-section #basic-af-open-section ul[data-rte-list] li > *:first-child::before,
+body #siteWrapper main#page #extra-af-trigger-section #basic-af-open-section ul[data-rte-list] li > *:first-child::before,
+body #siteWrapper main#page #mu-edit-trigger-section #basic-af-open-section ul[data-rte-list] li > *:first-child::before {
+  content: unset;
+}
 
 /*# sourceMappingURL=styles.css.map */

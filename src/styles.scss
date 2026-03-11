@@ -329,5 +329,32 @@ body #siteWrapper main#page {
         background: #242424;
       }
     }
+    #basic-af-open-section {
+      h3 {
+        opacity: .45;
+        font-weight: 700;
+        font-size:0.833vw;
+      }
+      h4 {
+
+      }
+      ul[data-rte-list] li>*:first-child::before {
+        content: unset;
+      }
+      ul {
+        li {
+          p {
+            span {
+              
+            }
+          }
+        }
+      }
+      p {
+        .sqsrte-small {
+
+        }
+      }
+    }
   }
 }

@@ -333,7 +333,10 @@ body #siteWrapper main#page {
       }
     }
   }
-  #basic-af-open-section {
+  #basic-af-open-section,
+  #bougie-af-open-section,
+  #extra-af-open-section,
+  #mu-edit-open-section {
     height:0;
     opacity: 0;
     transition: all .5s ease;

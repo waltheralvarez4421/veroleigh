@@ -276,33 +276,46 @@ body #siteWrapper main#page {
     h2 {
       font-size: 4.427vw;
       line-height: 1em !important;
+      transition: color .2s ease;
     }
     h3, h4 {
       font-weight: 700;
       font-size: 0.938vw;
       line-height: 1em !important;
-    }
-    h4 {
-
+      transition: color .2s ease;
     }
     p {
       font-size:1.042vw;
       font-weight: 300;
       line-height: 1em !important;
+      transition: color .2s ease;
       &.sqsrte-large {
         font-size:3.906vw;
         font-weight:400;
         font-family:'GT-Super-Reg', serif;
         letter-spacing: -.025em;
+        transition: color .2s ease;
       }
       &.sqsrte-small {
         font-family: 'nimbus-sans-extended', sans-serif;
         letter-spacing: .15em;
         font-size:2.344vw;
+        font-weight: 700;
+        transition: color .2s ease;
       }
     }
     &.open-service {
-
+      h2, h4, p {
+        color:#FFFAEF;
+      }
+      h3 {
+        color: #CE4B2C;
+      } 
+      p {
+        &.sqsrte-large {
+          color: #CE4B2C;
+        }
+      }
     }
   }
 }

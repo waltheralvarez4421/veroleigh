@@ -275,7 +275,6 @@ body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-large {
 }
 body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-small {
   font-family: "nimbus-sans-extended", sans-serif;
-  letter-spacing: 0.15em;
   font-size: 2.344vw;
   font-weight: 700;
   transition: color 0.2s ease;

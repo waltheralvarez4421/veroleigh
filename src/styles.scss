@@ -332,6 +332,9 @@ body #siteWrapper main#page {
     }
   }
   #basic-af-open-section {
+    height:0;
+    opacity: 0;
+    transition: all 1s ease;
     h3 {
       opacity: .45;
       font-weight: 700;
@@ -371,6 +374,10 @@ body #siteWrapper main#page {
           color: #242424 !important;
         }
       }
+    }
+    &.open-service {
+      height: 100%;
+      opacity: 1;
     }
   }
 }

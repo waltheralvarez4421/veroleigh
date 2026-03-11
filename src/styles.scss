@@ -272,7 +272,7 @@ body #siteWrapper main#page {
     }
   }
 
-  #basic-af-title-section {
+  #basic-af-trigger-section {
     h2 {
       font-size: 4.427vw;
       line-height: 1em !important;
@@ -295,6 +295,9 @@ body #siteWrapper main#page {
         font-family:'GT-Super-Reg', serif;
         letter-spacing: -.025em;
       }
+    }
+    &.open-service {
+      
     }
   }
 }

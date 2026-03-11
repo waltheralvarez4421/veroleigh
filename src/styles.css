@@ -246,21 +246,21 @@ body #siteWrapper main#page #offering .sqs-html-content pre code {
 body #siteWrapper main#page #packages-title-section h2 {
   font-size: 3.385vw;
 }
-body #siteWrapper main#page #basic-af-title-section h2 {
+body #siteWrapper main#page #basic-af-trigger-section h2 {
   font-size: 4.427vw;
   line-height: 1em !important;
 }
-body #siteWrapper main#page #basic-af-title-section h3, body #siteWrapper main#page #basic-af-title-section h4 {
+body #siteWrapper main#page #basic-af-trigger-section h3, body #siteWrapper main#page #basic-af-trigger-section h4 {
   font-weight: 700;
   font-size: 0.938vw;
   line-height: 1em !important;
 }
-body #siteWrapper main#page #basic-af-title-section p {
+body #siteWrapper main#page #basic-af-trigger-section p {
   font-size: 1.042vw;
   font-weight: 300;
   line-height: 1em !important;
 }
-body #siteWrapper main#page #basic-af-title-section p.sqsrte-large {
+body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-large {
   font-size: 3.906vw;
   font-weight: 400;
   font-family: "GT-Super-Reg", serif;

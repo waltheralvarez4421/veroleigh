@@ -271,6 +271,7 @@ body #siteWrapper main#page #mu-edit-trigger-section h4 {
   font-size: 0.938vw;
   line-height: 1em !important;
   transition: color 0.2s ease;
+  text-transform: uppercase;
 }
 body #siteWrapper main#page #basic-af-trigger-section p,
 body #siteWrapper main#page #bougie-af-trigger-section p,

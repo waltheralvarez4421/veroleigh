@@ -376,7 +376,7 @@ body #siteWrapper main#page #basic-af-open-section a.sqs-button-element--primary
   color: #FFFAEF;
 }
 body #siteWrapper main#page #basic-af-open-section a.sqs-button-element--primary:hover {
-  color: #242424;
+  color: #242424 !important;
 }
 
 /*# sourceMappingURL=styles.css.map */

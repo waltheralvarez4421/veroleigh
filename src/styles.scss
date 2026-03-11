@@ -366,6 +366,9 @@ body #siteWrapper main#page {
       &.sqs-button-element--primary {
         background-color: #CE4B2C;
         color:#FFFAEF;
+        &:hover {
+          color: #242424;
+        }
       }
     }
   }

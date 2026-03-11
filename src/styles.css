@@ -243,5 +243,8 @@ body #siteWrapper main#page #offering .sqs-html-content pre code {
   line-height: 1em !important;
   color: #CE4B2C;
 }
+body #siteWrapper main#page #packages-title-section h2 {
+  font-size: 3.385vw;
+}
 
 /*# sourceMappingURL=styles.css.map */

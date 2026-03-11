@@ -363,5 +363,12 @@ body #siteWrapper main#page #basic-af-open-section .sqs-block-horizontalrule hr 
   margin-top: 0;
   opacity: 0.2;
 }
+body #siteWrapper main#page #basic-af-open-section a.sqs-button-element--secondary {
+  color: #FFFAEF;
+  border-color: #CE4B2C;
+  font-family: "nimbus-sans-extended", sans-serif;
+  font-size: 0.938vw;
+  font-weight: 700;
+}
 
 /*# sourceMappingURL=styles.css.map */

@@ -336,9 +336,6 @@ body #siteWrapper main#page {
       font-weight: 700;
       font-size:0.833vw;
     }
-    h4 {
-
-    }
     p {
       font-size: 1.042vw;
       font-weight: 400;
@@ -356,6 +353,18 @@ body #siteWrapper main#page {
         background-color: #E2E2E4;
         margin-top: 0;
         opacity:.2;
+      }
+    }
+    a {
+      &.sqs-button-element--secondary {
+        color:#FFFAEF;
+        border-color: #CE4B2C;
+        font-family: 'nimbus-sans-extended', sans-serif;
+        font-size:0.938vw;
+        font-weight: 700;
+      }
+      &.sqs-button-element--primary {
+
       }
     }
   }

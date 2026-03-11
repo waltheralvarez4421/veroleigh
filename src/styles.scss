@@ -358,8 +358,16 @@ body #siteWrapper main#page {
       font-size: 1.042vw;
       font-weight: 400;
       .sqsrte-small {
-
+        margin: .5rem 0;;
+        padding: 0 10px 0 0;
       }
+      .sqsrte-large {
+        font-size:0.938vw;
+        opacity: .45;
+      }
+    }
+    hr {
+
     }
   }
 }

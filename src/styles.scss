@@ -82,7 +82,8 @@ body #siteWrapper main#page {
 
   #the-team,
   #reviews,
-  #packages-title-section {
+  #packages-title-section,
+  #add-ons {
     h4 {
       font-weight: 700;
       font-size: 1.302vw;
@@ -398,5 +399,8 @@ body #siteWrapper main#page {
       height: 100%;
       opacity: 1;
     }
+  }
+  #add-ons {
+    
   }
 }

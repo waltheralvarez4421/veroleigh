@@ -263,6 +263,8 @@ body #siteWrapper main#page #basic-af-title-section p {
 body #siteWrapper main#page #basic-af-title-section p.sqsrte-large {
   font-size: 0.938vw;
   font-weight: 400;
+  font-family: "GT-Super-Reg", serif;
+  letter-spacing: -0.025em;
 }
 
 /*# sourceMappingURL=styles.css.map */

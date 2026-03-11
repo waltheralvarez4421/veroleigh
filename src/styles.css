@@ -351,7 +351,7 @@ body #siteWrapper main#page #mu-edit-trigger-section.open-service [data-sqsp-sha
 body #siteWrapper main#page #basic-af-open-section {
   height: 0;
   opacity: 0;
-  transition: all 1s ease;
+  transition: all 0.5s ease;
 }
 body #siteWrapper main#page #basic-af-open-section h3 {
   opacity: 0.45;

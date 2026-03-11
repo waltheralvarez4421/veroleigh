@@ -329,32 +329,32 @@ body #siteWrapper main#page {
         background: #242424;
       }
     }
-    #basic-af-open-section {
-      h3 {
-        opacity: .45;
-        font-weight: 700;
-        font-size:0.833vw;
-      }
-      h4 {
+  }
+  #basic-af-open-section {
+    h3 {
+      opacity: .45;
+      font-weight: 700;
+      font-size:0.833vw;
+    }
+    h4 {
 
-      }
-      ul[data-rte-list] li>*:first-child::before {
-        content: unset;
-      }
-      ul {
-        li {
-          p {
-            span {
-              font-size: 1.042vw;
-              font-weight: 400;
-            }
+    }
+    ul[data-rte-list] li>*:first-child::before {
+      content: unset;
+    }
+    ul {
+      li {
+        p {
+          span {
+            font-size: 1.042vw;
+            font-weight: 400;
           }
         }
       }
-      p {
-        .sqsrte-small {
+    }
+    p {
+      .sqsrte-small {
 
-        }
       }
     }
   }

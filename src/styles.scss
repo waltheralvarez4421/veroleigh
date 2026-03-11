@@ -278,7 +278,7 @@ body #siteWrapper main#page {
   #extra-af-trigger-section,
   #mu-edit-trigger-section {
     cursor: pointer;
-    overflow: hidden;
+    overflow: visible;
     [data-sqsp-shape-block-shape] {
       transition: all .2s ease;
     }
@@ -316,7 +316,7 @@ body #siteWrapper main#page {
       border: 1px solid #2424242f;
     }
     &.open-service {
-      border-color: transparent;
+      border: none;
       h2, h4, p:not(.sqsrte-small) {
         color:#FFFAEF;
         span {

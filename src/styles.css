@@ -349,7 +349,15 @@ body #siteWrapper main#page #basic-af-open-section h3 {
 body #siteWrapper main#page #basic-af-open-section ul[data-rte-list] li > *:first-child::before {
   content: unset;
 }
+body #siteWrapper main#page #basic-af-open-section ul {
+  padding: 0;
+  padding-right: 10px;
+}
 body #siteWrapper main#page #basic-af-open-section ul li p span {
+  font-size: 1.042vw;
+  font-weight: 400;
+}
+body #siteWrapper main#page #basic-af-open-section p {
   font-size: 1.042vw;
   font-weight: 400;
 }

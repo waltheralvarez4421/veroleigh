@@ -343,6 +343,8 @@ body #siteWrapper main#page {
       content: unset;
     }
     ul {
+      padding: 0;
+      padding-right: 10px;
       li {
         p {
           span {
@@ -353,6 +355,8 @@ body #siteWrapper main#page {
       }
     }
     p {
+      font-size: 1.042vw;
+      font-weight: 400;
       .sqsrte-small {
 
       }

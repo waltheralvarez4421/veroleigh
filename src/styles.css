@@ -370,5 +370,9 @@ body #siteWrapper main#page #basic-af-open-section a.sqs-button-element--seconda
   font-size: 0.938vw;
   font-weight: 700;
 }
+body #siteWrapper main#page #basic-af-open-section a.sqs-button-element--primary {
+  background-color: #CE4B2C;
+  color: #FFFAEF;
+}
 
 /*# sourceMappingURL=styles.css.map */

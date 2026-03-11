@@ -355,5 +355,12 @@ body #siteWrapper main#page #extra-af-trigger-section #basic-af-open-section ul[
 body #siteWrapper main#page #mu-edit-trigger-section #basic-af-open-section ul[data-rte-list] li > *:first-child::before {
   content: unset;
 }
+body #siteWrapper main#page #basic-af-trigger-section #basic-af-open-section ul li p span,
+body #siteWrapper main#page #bougie-af-trigger-section #basic-af-open-section ul li p span,
+body #siteWrapper main#page #extra-af-trigger-section #basic-af-open-section ul li p span,
+body #siteWrapper main#page #mu-edit-trigger-section #basic-af-open-section ul li p span {
+  font-size: 1.042vw;
+  font-weight: 400;
+}
 
 /*# sourceMappingURL=styles.css.map */

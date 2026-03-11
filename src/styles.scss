@@ -278,6 +278,7 @@ body #siteWrapper main#page {
   #extra-af-trigger-section,
   #mu-edit-trigger-section {
     cursor: pointer;
+    overflow: visible;
     [data-sqsp-shape-block-shape] {
       transition: all .2s ease;
     }

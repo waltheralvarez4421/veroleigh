@@ -255,6 +255,7 @@ body #siteWrapper main#page #bougie-af-trigger-section,
 body #siteWrapper main#page #extra-af-trigger-section,
 body #siteWrapper main#page #mu-edit-trigger-section {
   cursor: pointer;
+  overflow: visible;
 }
 body #siteWrapper main#page #basic-af-trigger-section [data-sqsp-shape-block-shape],
 body #siteWrapper main#page #bougie-af-trigger-section [data-sqsp-shape-block-shape],

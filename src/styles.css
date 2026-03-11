@@ -246,52 +246,100 @@ body #siteWrapper main#page #offering .sqs-html-content pre code {
 body #siteWrapper main#page #packages-title-section h2 {
   font-size: 3.385vw;
 }
-body #siteWrapper main#page #basic-af-trigger-section [data-sqsp-shape-block-shape] {
+body #siteWrapper main#page #basic-af-trigger-section [data-sqsp-shape-block-shape],
+body #siteWrapper main#page #bougie-af-trigger-section [data-sqsp-shape-block-shape],
+body #siteWrapper main#page #extra-af-trigger-section [data-sqsp-shape-block-shape],
+body #siteWrapper main#page #mu-edit-trigger-section [data-sqsp-shape-block-shape] {
   transition: all 0.2s ease;
 }
-body #siteWrapper main#page #basic-af-trigger-section h2 {
+body #siteWrapper main#page #basic-af-trigger-section h2,
+body #siteWrapper main#page #bougie-af-trigger-section h2,
+body #siteWrapper main#page #extra-af-trigger-section h2,
+body #siteWrapper main#page #mu-edit-trigger-section h2 {
   font-size: 4.427vw;
   line-height: 1em !important;
   transition: color 0.2s ease;
 }
-body #siteWrapper main#page #basic-af-trigger-section h3, body #siteWrapper main#page #basic-af-trigger-section h4 {
+body #siteWrapper main#page #basic-af-trigger-section h3, body #siteWrapper main#page #basic-af-trigger-section h4,
+body #siteWrapper main#page #bougie-af-trigger-section h3,
+body #siteWrapper main#page #bougie-af-trigger-section h4,
+body #siteWrapper main#page #extra-af-trigger-section h3,
+body #siteWrapper main#page #extra-af-trigger-section h4,
+body #siteWrapper main#page #mu-edit-trigger-section h3,
+body #siteWrapper main#page #mu-edit-trigger-section h4 {
   font-weight: 700;
   font-size: 0.938vw;
   line-height: 1em !important;
   transition: color 0.2s ease;
 }
-body #siteWrapper main#page #basic-af-trigger-section p {
+body #siteWrapper main#page #basic-af-trigger-section p,
+body #siteWrapper main#page #bougie-af-trigger-section p,
+body #siteWrapper main#page #extra-af-trigger-section p,
+body #siteWrapper main#page #mu-edit-trigger-section p {
   font-size: 1.042vw;
   font-weight: 300;
   line-height: 1em !important;
   transition: color 0.2s ease;
 }
-body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-large {
+body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-large,
+body #siteWrapper main#page #bougie-af-trigger-section p.sqsrte-large,
+body #siteWrapper main#page #extra-af-trigger-section p.sqsrte-large,
+body #siteWrapper main#page #mu-edit-trigger-section p.sqsrte-large {
   font-size: 3.906vw;
   font-weight: 400;
   font-family: "GT-Super-Reg", serif;
   letter-spacing: -0.025em;
   transition: color 0.2s ease;
 }
-body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-small {
+body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-small,
+body #siteWrapper main#page #bougie-af-trigger-section p.sqsrte-small,
+body #siteWrapper main#page #extra-af-trigger-section p.sqsrte-small,
+body #siteWrapper main#page #mu-edit-trigger-section p.sqsrte-small {
   font-family: "nimbus-sans-extended", sans-serif;
   font-size: 2.344vw;
   font-weight: 700;
   transition: color 0.2s ease;
 }
-body #siteWrapper main#page #basic-af-trigger-section.open-service h2, body #siteWrapper main#page #basic-af-trigger-section.open-service h4, body #siteWrapper main#page #basic-af-trigger-section.open-service p:not(.sqsrte-small) {
+body #siteWrapper main#page #basic-af-trigger-section.open-service h2, body #siteWrapper main#page #basic-af-trigger-section.open-service h4, body #siteWrapper main#page #basic-af-trigger-section.open-service p:not(.sqsrte-small),
+body #siteWrapper main#page #bougie-af-trigger-section.open-service h2,
+body #siteWrapper main#page #bougie-af-trigger-section.open-service h4,
+body #siteWrapper main#page #bougie-af-trigger-section.open-service p:not(.sqsrte-small),
+body #siteWrapper main#page #extra-af-trigger-section.open-service h2,
+body #siteWrapper main#page #extra-af-trigger-section.open-service h4,
+body #siteWrapper main#page #extra-af-trigger-section.open-service p:not(.sqsrte-small),
+body #siteWrapper main#page #mu-edit-trigger-section.open-service h2,
+body #siteWrapper main#page #mu-edit-trigger-section.open-service h4,
+body #siteWrapper main#page #mu-edit-trigger-section.open-service p:not(.sqsrte-small) {
   color: #FFFAEF;
 }
-body #siteWrapper main#page #basic-af-trigger-section.open-service h2 span, body #siteWrapper main#page #basic-af-trigger-section.open-service h4 span, body #siteWrapper main#page #basic-af-trigger-section.open-service p:not(.sqsrte-small) span {
+body #siteWrapper main#page #basic-af-trigger-section.open-service h2 span, body #siteWrapper main#page #basic-af-trigger-section.open-service h4 span, body #siteWrapper main#page #basic-af-trigger-section.open-service p:not(.sqsrte-small) span,
+body #siteWrapper main#page #bougie-af-trigger-section.open-service h2 span,
+body #siteWrapper main#page #bougie-af-trigger-section.open-service h4 span,
+body #siteWrapper main#page #bougie-af-trigger-section.open-service p:not(.sqsrte-small) span,
+body #siteWrapper main#page #extra-af-trigger-section.open-service h2 span,
+body #siteWrapper main#page #extra-af-trigger-section.open-service h4 span,
+body #siteWrapper main#page #extra-af-trigger-section.open-service p:not(.sqsrte-small) span,
+body #siteWrapper main#page #mu-edit-trigger-section.open-service h2 span,
+body #siteWrapper main#page #mu-edit-trigger-section.open-service h4 span,
+body #siteWrapper main#page #mu-edit-trigger-section.open-service p:not(.sqsrte-small) span {
   color: #FFFAEF;
 }
-body #siteWrapper main#page #basic-af-trigger-section.open-service h3 span {
+body #siteWrapper main#page #basic-af-trigger-section.open-service h3 span,
+body #siteWrapper main#page #bougie-af-trigger-section.open-service h3 span,
+body #siteWrapper main#page #extra-af-trigger-section.open-service h3 span,
+body #siteWrapper main#page #mu-edit-trigger-section.open-service h3 span {
   color: #CE4B2C;
 }
-body #siteWrapper main#page #basic-af-trigger-section.open-service p.sqsrte-large {
+body #siteWrapper main#page #basic-af-trigger-section.open-service p.sqsrte-large,
+body #siteWrapper main#page #bougie-af-trigger-section.open-service p.sqsrte-large,
+body #siteWrapper main#page #extra-af-trigger-section.open-service p.sqsrte-large,
+body #siteWrapper main#page #mu-edit-trigger-section.open-service p.sqsrte-large {
   color: #CE4B2C;
 }
-body #siteWrapper main#page #basic-af-trigger-section.open-service [data-sqsp-shape-block-shape] {
+body #siteWrapper main#page #basic-af-trigger-section.open-service [data-sqsp-shape-block-shape],
+body #siteWrapper main#page #bougie-af-trigger-section.open-service [data-sqsp-shape-block-shape],
+body #siteWrapper main#page #extra-af-trigger-section.open-service [data-sqsp-shape-block-shape],
+body #siteWrapper main#page #mu-edit-trigger-section.open-service [data-sqsp-shape-block-shape] {
   background: #242424;
 }
 

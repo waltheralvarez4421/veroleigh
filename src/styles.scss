@@ -272,7 +272,10 @@ body #siteWrapper main#page {
     }
   }
 
-  #basic-af-trigger-section {
+  #basic-af-trigger-section,
+  #bougie-af-trigger-section,
+  #extra-af-trigger-section,
+  #mu-edit-trigger-section {
     [data-sqsp-shape-block-shape] {
       transition: all .2s ease;
     }

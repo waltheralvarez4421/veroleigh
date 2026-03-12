@@ -444,5 +444,17 @@ body #siteWrapper main#page {
         font-size: 1rem;;
       }
     }
+    #team-wrapper {
+      .sqs-block-html .sqs-html-content {
+        padding:0 1rem;
+        gap: .75rem;
+      }
+      h4 {
+        font-size:1rem;
+      }
+      p {
+        font-size:.75rem;
+      }
+    }
   }
 }

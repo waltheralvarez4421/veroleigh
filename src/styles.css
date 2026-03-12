@@ -1,6 +1,6 @@
 /* Error: expected ";".
  *     ,
- * 576 |             font:-size:1rem;
+ * 576 |             font:-size: 1rem;
  *     |                       ^
  *     '
  *   src/styles.scss 576:23  root stylesheet */
@@ -13,5 +13,5 @@ body::before {
   padding: 1em;
   margin-bottom: 1em;
   border-bottom: 2px solid black;
-  content: 'Error: expected ";".\a     \2577 \a 576 \2502              font:-size:1rem;\a     \2502                        ^\a     \2575 \a   src/styles.scss 576:23  root stylesheet';
+  content: 'Error: expected ";".\a     \2577 \a 576 \2502              font:-size: 1rem;\a     \2502                        ^\a     \2575 \a   src/styles.scss 576:23  root stylesheet';
 }

@@ -494,10 +494,12 @@ body #siteWrapper main#page #add-ons h2 {
     font-size: 1rem;
     line-height: 1.15em !important;
   }
-  body #siteWrapper main#page #the-team h2 {
+  body #siteWrapper main#page #the-team h2,
+  body #siteWrapper main#page #packages-title-section h2 {
     font-size: 3rem;
   }
-  body #siteWrapper main#page #the-team h4 {
+  body #siteWrapper main#page #the-team h4,
+  body #siteWrapper main#page #packages-title-section h4 {
     font-size: 1rem;
   }
   body #siteWrapper main#page #team-wrapper .sqs-block-html .sqs-html-content {

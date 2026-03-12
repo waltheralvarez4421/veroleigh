@@ -16,11 +16,15 @@ body #siteWrapper main#page h3, body #siteWrapper main#page h4, body #siteWrappe
 body #siteWrapper main#page p, body #siteWrapper main#page p.sqsrte-large, body #siteWrapper main#page p.sqsrte-small {
   font-family: "Maison-Book", sans-serif;
   letter-spacing: 0;
+  text-transform: none;
 }
 body #siteWrapper main#page .sqs-block-button-container a {
   font-family: "nimbus-sans", sans-serif;
   letter-spacing: 0.05em;
   padding: 0.5rem 0 !important;
+}
+body #siteWrapper main#page {
+  /* Services Page */
 }
 body #siteWrapper main#page #section-hero {
   /*Video*/
@@ -476,6 +480,17 @@ body #siteWrapper main#page #mu-edit-open-section.open-service {
 }
 body #siteWrapper main#page #add-ons h2 {
   font-size: 3.385vw;
+}
+body #siteWrapper main#page {
+  /* Pricing Page */
+}
+body #siteWrapper main#page #pricing-hero h1 {
+  font-size: 3.906vw;
+}
+body #siteWrapper main#page #pricing-hero h3 {
+  font-size: 0.938vw;
+  font-weight: 700;
+  text-transform: uppercase;
 }
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {

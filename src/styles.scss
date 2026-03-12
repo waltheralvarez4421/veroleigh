@@ -12,6 +12,7 @@ body #siteWrapper main#page {
   p, p.sqsrte-large, p.sqsrte-small {
     font-family: 'Maison-Book', sans-serif;
     letter-spacing: 0;
+    text-transform: none;
   }
   .sqs-block-button-container {
     a {
@@ -20,6 +21,8 @@ body #siteWrapper main#page {
       padding: .5rem 0 !important;
     }
   }
+  
+  /* Services Page */
 
   #section-hero {
     /*Video*/
@@ -423,6 +426,26 @@ body #siteWrapper main#page {
   #add-ons {
     h2 {
       font-size:3.385vw;
+    }
+  }
+
+  /* Pricing Page */
+  #pricing-hero {
+    h1 {
+      font-size:3.906vw;
+    }
+    h3 {
+      font-size: 0.938vw;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    h4 {
+
+    }
+    p {
+      &.sqsrte-large {
+        
+      }
     }
   }
 

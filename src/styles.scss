@@ -525,45 +525,17 @@ body #siteWrapper main#page {
         }
       }
       h3 {
-        opacity: .45;
-        font-weight: 700;
-        font-size:0.833vw;
+        font-size:1rem;
       }
       p {
-        font-size: 1.042vw;
-        font-weight: 400;
-        margin: .5rem 0;
-        padding: 0 10px 0 0;
-        &.sqsrte-small {
-          margin: .5rem 0;
-          padding: 0 10px 0 0;
-        }
+        font-size: .85rem;
         &.sqsrte-large {
-          font-size:0.938vw;
-          opacity: .45;
-        }
-      }
-      .sqs-block-horizontalrule {
-        hr {
-          background-color: #E2E2E4;
-          margin-top: 0;
-          opacity:.2;
+          font-size:0.85rem;
         }
       }
       a {
         &.sqs-button-element--secondary {
-          color:#FFFAEF;
-          border-color: #CE4B2C;
-          font-family: 'nimbus-sans-extended', sans-serif;
-          font-size:0.938vw;
-          font-weight: 700;
-        }
-        &.sqs-button-element--primary {
-          background-color: #CE4B2C;
-          color:#FFFAEF;
-          &:hover {
-            color: #242424 !important;
-          }
+          font-size:1rem;
         }
       }
       &.open-service {

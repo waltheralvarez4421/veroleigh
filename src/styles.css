@@ -509,6 +509,12 @@ body #siteWrapper main#page #pricing-hero p.sqsrte-large {
   line-height: 1em !important;
   opacity: 0.8;
 }
+body #siteWrapper main#page #inner-nav a {
+  font-family: "nimbus-sans-extended", sans-serif;
+  letter-spacing: 0.15em;
+  border: none;
+  border-right: 1px solid rgba(226, 226, 228, 0.5);
+}
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {
     font-size: calc((var(--heading-1-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem) !important;

@@ -457,6 +457,14 @@ body #siteWrapper main#page {
       }
     }
   }
+  #inner-nav {
+    a {
+      font-family: 'nimbus-sans-extended', sans-serif;
+      letter-spacing: .15em;
+      border:none;
+      border-right:1px solid rgba(226, 226, 228, .5);
+    }
+  }
 
   @media (max-width:767px) {
     h1 {

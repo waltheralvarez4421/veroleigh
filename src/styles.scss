@@ -107,6 +107,12 @@ body #siteWrapper main#page {
     }
   }
 
+  #reviews {
+    h3 {
+      opacity:.5;
+    }
+  }
+
   #team-wrapper {
     .sqs-block-html .sqs-html-content {
       padding:0 1.563vw;

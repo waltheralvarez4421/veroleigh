@@ -113,6 +113,9 @@ body #siteWrapper main#page #packages-title-section a,
 body #siteWrapper main#page #add-ons a {
   color: #242424;
 }
+body #siteWrapper main#page #reviews h3 {
+  opacity: 0.5;
+}
 body #siteWrapper main#page #team-wrapper .sqs-block-html .sqs-html-content {
   padding: 0 1.563vw;
   display: flex;

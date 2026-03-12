@@ -504,8 +504,14 @@ body #siteWrapper main#page #add-ons h2 {
   body #siteWrapper main#page #the-difference h2 {
     font-size: 2.5rem;
   }
+  body #siteWrapper main#page #the-difference h3 {
+    font-size: 1rem;
+  }
   body #siteWrapper main#page #the-difference h4 {
-    font-size: 1.1rem;
+    font-size: 0.75rem;
+  }
+  body #siteWrapper main#page #the-difference p {
+    font-size: calc((var(--small-text-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem);
   }
 }
 

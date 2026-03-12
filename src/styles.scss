@@ -159,6 +159,12 @@ body #siteWrapper main#page {
       text-transform: none;
       font-weight: 400;
       font-size:1.302vw;
+      &.sqsrte-large {
+        font-weight: 700;
+        font-size: 1.302vw;
+        line-height: 1em !important;
+        text-transform: uppercase;
+      }
     }
     .fe-block-yui_3_17_2_1_1773075180429_1476049 {
       grid-column-end: 5 !important;

@@ -514,6 +514,7 @@ body #siteWrapper main#page #inner-nav a {
   letter-spacing: 0.15em;
   border: none;
   border-right: 1px solid rgba(226, 226, 228, 0.5);
+  color: #E6DED0;
 }
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {

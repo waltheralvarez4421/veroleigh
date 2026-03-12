@@ -517,7 +517,7 @@ body #siteWrapper main#page #inner-nav a {
   color: #E6DED0;
   font-size: 0.833vw;
 }
-body #siteWrapper main#page #announcement-section [data-sqsp-block=shape] {
+body #siteWrapper main#page #announcement-section [data-sqsp-block=shape] [data-shape-name=rectangle] {
   border-left: 9px solid #7F2B29;
 }
 body #siteWrapper main#page #announcement-section p {

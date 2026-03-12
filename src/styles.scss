@@ -468,7 +468,7 @@ body #siteWrapper main#page {
     }
   }
   #announcement-section {
-    [data-sqsp-block="shape"] {
+    [data-sqsp-block="shape"] [data-shape-name="rectangle"] {
       border-left:9px solid #7F2B29;
     }
     p {

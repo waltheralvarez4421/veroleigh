@@ -530,6 +530,39 @@ body #siteWrapper main#page #add-ons h2 {
   body #siteWrapper main#page #the-difference .sqs-html-content pre code {
     font-size: 2rem;
   }
+  body #siteWrapper main#page #basic-af-trigger-section h2,
+  body #siteWrapper main#page #bougie-af-trigger-section h2,
+  body #siteWrapper main#page #extra-af-trigger-section h2,
+  body #siteWrapper main#page #mu-edit-trigger-section h2 {
+    font-size: 3rem;
+  }
+  body #siteWrapper main#page #basic-af-trigger-section h3, body #siteWrapper main#page #basic-af-trigger-section h4,
+  body #siteWrapper main#page #bougie-af-trigger-section h3,
+  body #siteWrapper main#page #bougie-af-trigger-section h4,
+  body #siteWrapper main#page #extra-af-trigger-section h3,
+  body #siteWrapper main#page #extra-af-trigger-section h4,
+  body #siteWrapper main#page #mu-edit-trigger-section h3,
+  body #siteWrapper main#page #mu-edit-trigger-section h4 {
+    font-size: 0.85rem;
+  }
+  body #siteWrapper main#page #basic-af-trigger-section p,
+  body #siteWrapper main#page #bougie-af-trigger-section p,
+  body #siteWrapper main#page #extra-af-trigger-section p,
+  body #siteWrapper main#page #mu-edit-trigger-section p {
+    font-size: 1rem;
+  }
+  body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-large,
+  body #siteWrapper main#page #bougie-af-trigger-section p.sqsrte-large,
+  body #siteWrapper main#page #extra-af-trigger-section p.sqsrte-large,
+  body #siteWrapper main#page #mu-edit-trigger-section p.sqsrte-large {
+    font-size: 2rem;
+  }
+  body #siteWrapper main#page #basic-af-trigger-section p.sqsrte-small,
+  body #siteWrapper main#page #bougie-af-trigger-section p.sqsrte-small,
+  body #siteWrapper main#page #extra-af-trigger-section p.sqsrte-small,
+  body #siteWrapper main#page #mu-edit-trigger-section p.sqsrte-small {
+    font-size: 1.5rem;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

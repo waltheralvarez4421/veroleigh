@@ -563,6 +563,96 @@ body #siteWrapper main#page #add-ons h2 {
   body #siteWrapper main#page #mu-edit-trigger-section p.sqsrte-small {
     font-size: 1.5rem;
   }
+  body #siteWrapper main#page #basic-af-open-section,
+  body #siteWrapper main#page #bougie-af-open-section,
+  body #siteWrapper main#page #extra-af-open-section,
+  body #siteWrapper main#page #mu-edit-open-section {
+    /*height:0;
+    opacity: 0;*/
+    transition: all 0.5s ease;
+  }
+  body #siteWrapper main#page #basic-af-open-section .new,
+  body #siteWrapper main#page #bougie-af-open-section .new,
+  body #siteWrapper main#page #extra-af-open-section .new,
+  body #siteWrapper main#page #mu-edit-open-section .new {
+    opacity: 1;
+    transition: all 0.2s ease;
+  }
+  body #siteWrapper main#page #basic-af-open-section .new:hover,
+  body #siteWrapper main#page #bougie-af-open-section .new:hover,
+  body #siteWrapper main#page #extra-af-open-section .new:hover,
+  body #siteWrapper main#page #mu-edit-open-section .new:hover {
+    opacity: 0;
+  }
+  body #siteWrapper main#page #basic-af-open-section h3,
+  body #siteWrapper main#page #bougie-af-open-section h3,
+  body #siteWrapper main#page #extra-af-open-section h3,
+  body #siteWrapper main#page #mu-edit-open-section h3 {
+    opacity: 0.45;
+    font-weight: 700;
+    font-size: 0.833vw;
+  }
+  body #siteWrapper main#page #basic-af-open-section p,
+  body #siteWrapper main#page #bougie-af-open-section p,
+  body #siteWrapper main#page #extra-af-open-section p,
+  body #siteWrapper main#page #mu-edit-open-section p {
+    font-size: 1.042vw;
+    font-weight: 400;
+    margin: 0.5rem 0;
+    padding: 0 10px 0 0;
+  }
+  body #siteWrapper main#page #basic-af-open-section p.sqsrte-small,
+  body #siteWrapper main#page #bougie-af-open-section p.sqsrte-small,
+  body #siteWrapper main#page #extra-af-open-section p.sqsrte-small,
+  body #siteWrapper main#page #mu-edit-open-section p.sqsrte-small {
+    margin: 0.5rem 0;
+    padding: 0 10px 0 0;
+  }
+  body #siteWrapper main#page #basic-af-open-section p.sqsrte-large,
+  body #siteWrapper main#page #bougie-af-open-section p.sqsrte-large,
+  body #siteWrapper main#page #extra-af-open-section p.sqsrte-large,
+  body #siteWrapper main#page #mu-edit-open-section p.sqsrte-large {
+    font-size: 0.938vw;
+    opacity: 0.45;
+  }
+  body #siteWrapper main#page #basic-af-open-section .sqs-block-horizontalrule hr,
+  body #siteWrapper main#page #bougie-af-open-section .sqs-block-horizontalrule hr,
+  body #siteWrapper main#page #extra-af-open-section .sqs-block-horizontalrule hr,
+  body #siteWrapper main#page #mu-edit-open-section .sqs-block-horizontalrule hr {
+    background-color: #E2E2E4;
+    margin-top: 0;
+    opacity: 0.2;
+  }
+  body #siteWrapper main#page #basic-af-open-section a.sqs-button-element--secondary,
+  body #siteWrapper main#page #bougie-af-open-section a.sqs-button-element--secondary,
+  body #siteWrapper main#page #extra-af-open-section a.sqs-button-element--secondary,
+  body #siteWrapper main#page #mu-edit-open-section a.sqs-button-element--secondary {
+    color: #FFFAEF;
+    border-color: #CE4B2C;
+    font-family: "nimbus-sans-extended", sans-serif;
+    font-size: 0.938vw;
+    font-weight: 700;
+  }
+  body #siteWrapper main#page #basic-af-open-section a.sqs-button-element--primary,
+  body #siteWrapper main#page #bougie-af-open-section a.sqs-button-element--primary,
+  body #siteWrapper main#page #extra-af-open-section a.sqs-button-element--primary,
+  body #siteWrapper main#page #mu-edit-open-section a.sqs-button-element--primary {
+    background-color: #CE4B2C;
+    color: #FFFAEF;
+  }
+  body #siteWrapper main#page #basic-af-open-section a.sqs-button-element--primary:hover,
+  body #siteWrapper main#page #bougie-af-open-section a.sqs-button-element--primary:hover,
+  body #siteWrapper main#page #extra-af-open-section a.sqs-button-element--primary:hover,
+  body #siteWrapper main#page #mu-edit-open-section a.sqs-button-element--primary:hover {
+    color: #242424 !important;
+  }
+  body #siteWrapper main#page #basic-af-open-section.open-service,
+  body #siteWrapper main#page #bougie-af-open-section.open-service,
+  body #siteWrapper main#page #extra-af-open-section.open-service,
+  body #siteWrapper main#page #mu-edit-open-section.open-service {
+    height: 100%;
+    opacity: 1;
+  }
   body #siteWrapper main#page #add-ons h4 {
     font-size: 1rem;
   }

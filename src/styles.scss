@@ -510,6 +510,67 @@ body #siteWrapper main#page {
       }
     }
     }
+    #basic-af-open-section,
+    #bougie-af-open-section,
+    #extra-af-open-section,
+    #mu-edit-open-section {
+      /*height:0;
+      opacity: 0;*/
+      transition: all .5s ease;
+      .new {
+        opacity: 1;
+        transition: all .2s ease;
+        &:hover {
+          opacity: 0;
+        }
+      }
+      h3 {
+        opacity: .45;
+        font-weight: 700;
+        font-size:0.833vw;
+      }
+      p {
+        font-size: 1.042vw;
+        font-weight: 400;
+        margin: .5rem 0;
+        padding: 0 10px 0 0;
+        &.sqsrte-small {
+          margin: .5rem 0;
+          padding: 0 10px 0 0;
+        }
+        &.sqsrte-large {
+          font-size:0.938vw;
+          opacity: .45;
+        }
+      }
+      .sqs-block-horizontalrule {
+        hr {
+          background-color: #E2E2E4;
+          margin-top: 0;
+          opacity:.2;
+        }
+      }
+      a {
+        &.sqs-button-element--secondary {
+          color:#FFFAEF;
+          border-color: #CE4B2C;
+          font-family: 'nimbus-sans-extended', sans-serif;
+          font-size:0.938vw;
+          font-weight: 700;
+        }
+        &.sqs-button-element--primary {
+          background-color: #CE4B2C;
+          color:#FFFAEF;
+          &:hover {
+            color: #242424 !important;
+          }
+        }
+      }
+      &.open-service {
+        height: 100%;
+        opacity: 1;
+      }
+    }
     #add-ons {
       h4 {
         font-size:1rem;

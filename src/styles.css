@@ -475,6 +475,12 @@ body #siteWrapper main#page #add-ons h2 {
   body #siteWrapper main#page #section-hero h4 {
     font-size: 0.75rem;
   }
+  body #siteWrapper main#page #stats-section h2 {
+    font-size: 3rem;
+  }
+  body #siteWrapper main#page #stats-section h4 {
+    font-size: 1rem;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

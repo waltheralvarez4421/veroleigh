@@ -370,8 +370,10 @@ body #siteWrapper main#page {
     p {
       font-size: 1.042vw;
       font-weight: 400;
+      margin: .5rem 0;
+      padding: 0 10px 0 0;
       &.sqsrte-small {
-        margin: .5rem 0;;
+        margin: .5rem 0;
         padding: 0 10px 0 0;
       }
       &.sqsrte-large {

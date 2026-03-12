@@ -407,6 +407,8 @@ body #siteWrapper main#page #extra-af-open-section p,
 body #siteWrapper main#page #mu-edit-open-section p {
   font-size: 1.042vw;
   font-weight: 400;
+  margin: 0.5rem 0;
+  padding: 0 10px 0 0;
 }
 body #siteWrapper main#page #basic-af-open-section p.sqsrte-small,
 body #siteWrapper main#page #bougie-af-open-section p.sqsrte-small,

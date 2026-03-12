@@ -440,11 +440,18 @@ body #siteWrapper main#page {
       text-transform: uppercase;
     }
     h4 {
-
+      font-size: 1.302vw;
+      text-transform: uppercase;
+      font-weight: 700;
     }
     p {
+      font-size: 1.042vw;
       &.sqsrte-large {
-        
+        font-family: 'nimbus-sans-extended';
+        letter-spacing: .15em;
+        font-size: 0.938vw;
+        line-height: 1em !important;
+        opacity:.8;
       }
     }
   }

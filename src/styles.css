@@ -492,6 +492,21 @@ body #siteWrapper main#page #pricing-hero h3 {
   font-weight: 700;
   text-transform: uppercase;
 }
+body #siteWrapper main#page #pricing-hero h4 {
+  font-size: 1.302vw;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+body #siteWrapper main#page #pricing-hero p {
+  font-size: 1.042vw;
+}
+body #siteWrapper main#page #pricing-hero p.sqsrte-large {
+  font-family: "nimbus-sans-extended";
+  letter-spacing: 0.15em;
+  font-size: 0.938vw;
+  line-height: 1em !important;
+  opacity: 0.8;
+}
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {
     font-size: calc((var(--heading-1-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem) !important;

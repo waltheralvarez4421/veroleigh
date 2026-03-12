@@ -651,6 +651,9 @@ body #siteWrapper main#page #add-ons h2 {
   body #siteWrapper main#page #offering .sqs-html-content pre code {
     font-size: 2rem;
   }
+  body #siteWrapper main#page #reviews h3 {
+    font-size: 10rem;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

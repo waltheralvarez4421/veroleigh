@@ -469,7 +469,8 @@ body #siteWrapper main#page {
         font-size:.8rem;
       }
     }
-    #the-difference {
+    #the-difference,
+    #offering {
       h2 {
         font-size: 2.5rem;
       }
@@ -514,8 +515,8 @@ body #siteWrapper main#page {
     #bougie-af-open-section,
     #extra-af-open-section,
     #mu-edit-open-section {
-      /*height:0;
-      opacity: 0;*/
+      height:0;
+      opacity: 0;
       transition: all .5s ease;
       .new {
         opacity: 1;
@@ -549,6 +550,32 @@ body #siteWrapper main#page {
       }
       h2 {
         font-size:2rem;
+      }
+    }
+    #offering {
+      h2 {
+        font-size:2rem;
+      }
+      h3 {
+        font-size: 1.25rem;
+      }
+      h4 {
+        font-size: 1.5rem;
+      }
+      p {
+        &.sqsrte-large {
+          font-size:1.25rem;
+        }
+        &.sqsrte-small {
+          font-size:1rem;
+        }
+      }
+      .sqs-html-content {
+        pre {
+          code {
+            font:-size:;
+          }
+        }
       }
     }
   }

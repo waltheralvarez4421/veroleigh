@@ -168,6 +168,8 @@ body #siteWrapper main#page #offering p.sqsrte-large {
   font-size: 1.302vw;
   line-height: 1em !important;
   text-transform: uppercase;
+  font-family: "nimbus-sans-extended", sans-serif;
+  letter-spacing: 0.15em;
 }
 body #siteWrapper main#page #the-difference .fe-block-yui_3_17_2_1_1773075180429_1476049,
 body #siteWrapper main#page #offering .fe-block-yui_3_17_2_1_1773075180429_1476049 {

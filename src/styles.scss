@@ -464,6 +464,15 @@ body #siteWrapper main#page {
       border:none;
       border-right:1px solid rgba(226, 226, 228, .5);
       color:#E6DED0;
+      font-size: 0.833vw;
+    }
+  }
+  #announcement-section {
+    [data-sqsp-block="shape"] {
+      border-left:9px solid #7F2B29;
+    }
+    p {
+      font-size: 1.042vw;
     }
   }
 

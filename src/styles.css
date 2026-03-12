@@ -515,6 +515,13 @@ body #siteWrapper main#page #inner-nav a {
   border: none;
   border-right: 1px solid rgba(226, 226, 228, 0.5);
   color: #E6DED0;
+  font-size: 0.833vw;
+}
+body #siteWrapper main#page #announcement-section [data-sqsp-block=shape] {
+  border-left: 9px solid #7F2B29;
+}
+body #siteWrapper main#page #announcement-section p {
+  font-size: 1.042vw;
 }
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {

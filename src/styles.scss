@@ -419,6 +419,9 @@ body #siteWrapper main#page {
     h1 {
       font-size: calc((var(--heading-1-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important;
     }
+    h2 {
+      font-size: calc((var(--heading-2-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important;
+    }
     #desktop-spacer {
       display: none !important;
     }

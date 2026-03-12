@@ -637,10 +637,11 @@ body #siteWrapper main#page #add-ons h2 {
     font-size: 1.25rem;
   }
   body #siteWrapper main#page #offering h4 {
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   body #siteWrapper main#page #offering p.sqsrte-large {
     font-size: 0.85rem;
+    padding: 0 1.5rem;
   }
   body #siteWrapper main#page #offering p.sqsrte-small {
     font-size: 1rem;

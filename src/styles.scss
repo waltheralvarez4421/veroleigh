@@ -563,11 +563,12 @@ body #siteWrapper main#page {
         font-size: 1.25rem;
       }
       h4 {
-        font-size: 1.5rem;
+        font-size: 1rem;
       }
       p {
         &.sqsrte-large {
           font-size:.85rem;
+          padding: 0 1.5rem;
         }
         &.sqsrte-small {
           font-size:1rem;

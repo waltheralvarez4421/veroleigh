@@ -478,6 +478,28 @@ body #siteWrapper main#page {
       font-size: 1.042vw;
     }
   }
+  #bridal-title,
+  #add-on-title,
+  #party-title,
+  #fees-title {
+    h2 {
+      font-size: 4.427vw;
+      font-weight: 400;
+    }
+    h3 {
+      font-weight: 700;
+      font-size: 1.302vw;
+      text-transform: uppercase;
+      line-height: 1em !important;
+    }
+    p {
+      font-weight: 400;
+      font-size:1.302vw;
+    }
+  }
+  #bridal-packages {
+    
+  }
 
   @media (max-width:767px) {
     h1 {

@@ -10,6 +10,7 @@ body #siteWrapper main#page {
     letter-spacing: .15em;
   }
   p, p.sqsrte-large, p.sqsrte-small {
+    font-weight: 400;
     font-family: 'Maison-Book', sans-serif;
     letter-spacing: 0;
     text-transform: none;
@@ -498,7 +499,33 @@ body #siteWrapper main#page {
     }
   }
   #bridal-packages {
-    
+    h2 {
+      font-size: 3.385vw;
+    }
+    h3 {
+      font-size: 0.833vw;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    h4 {
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 0.781vw;
+    }
+    p {
+      font-size: 0.833vw;
+      &.sqsrte-large {
+        font-size: 0.938vw;
+      }
+      &.sqsrte-small {
+        font-size: 0.729vw;
+      }
+    }
+    .sqs-html-content pre code {
+      font-family: 'GT-Super-Reg',serif;
+      letter-spacing: -.025em;
+      font-size:2.865vw;
+    }
   }
 
   @media (max-width:767px) {

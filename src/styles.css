@@ -14,6 +14,7 @@ body #siteWrapper main#page h3, body #siteWrapper main#page h4, body #siteWrappe
   letter-spacing: 0.15em;
 }
 body #siteWrapper main#page p, body #siteWrapper main#page p.sqsrte-large, body #siteWrapper main#page p.sqsrte-small {
+  font-weight: 400;
   font-family: "Maison-Book", sans-serif;
   letter-spacing: 0;
   text-transform: none;
@@ -548,6 +549,33 @@ body #siteWrapper main#page #party-title p,
 body #siteWrapper main#page #fees-title p {
   font-weight: 400;
   font-size: 1.302vw;
+}
+body #siteWrapper main#page #bridal-packages h2 {
+  font-size: 3.385vw;
+}
+body #siteWrapper main#page #bridal-packages h3 {
+  font-size: 0.833vw;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+body #siteWrapper main#page #bridal-packages h4 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.781vw;
+}
+body #siteWrapper main#page #bridal-packages p {
+  font-size: 0.833vw;
+}
+body #siteWrapper main#page #bridal-packages p.sqsrte-large {
+  font-size: 0.938vw;
+}
+body #siteWrapper main#page #bridal-packages p.sqsrte-small {
+  font-size: 0.729vw;
+}
+body #siteWrapper main#page #bridal-packages .sqs-html-content pre code {
+  font-family: "GT-Super-Reg", serif;
+  letter-spacing: -0.025em;
+  font-size: 2.865vw;
 }
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {

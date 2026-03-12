@@ -510,9 +510,14 @@ body #siteWrapper main#page {
     h4 {
       font-weight: 700;
       text-transform: uppercase;
-      font-size: 0.781vw;
+      font-size: 0.781vw !important;
     }
     .sqsrte-scaled-text {
+      h2 {
+        font-family: 'GT-Super-Reg',serif;
+        letter-spacing: -.025em;
+        font-size:2.865vw;
+      }
       h4 {
         opacity: .45;
       }
@@ -528,9 +533,10 @@ body #siteWrapper main#page {
       }
     }
     .sqs-html-content pre code {
-      font-family: 'GT-Super-Reg',serif;
-      letter-spacing: -.025em;
-      font-size:2.865vw;
+      font-weight: 700;
+      font-size: 1.042vw;
+      font-family: 'nimbus-sans-extended', sans-serif;
+      letter-spacing: .15em;
     }
   }
 

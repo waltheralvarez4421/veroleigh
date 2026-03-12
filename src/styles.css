@@ -561,7 +561,12 @@ body #siteWrapper main#page #bridal-packages h3 {
 body #siteWrapper main#page #bridal-packages h4 {
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 0.781vw;
+  font-size: 0.781vw !important;
+}
+body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h2 {
+  font-family: "GT-Super-Reg", serif;
+  letter-spacing: -0.025em;
+  font-size: 2.865vw;
 }
 body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h4 {
   opacity: 0.45;
@@ -577,9 +582,10 @@ body #siteWrapper main#page #bridal-packages p.sqsrte-small {
   font-size: 0.729vw;
 }
 body #siteWrapper main#page #bridal-packages .sqs-html-content pre code {
-  font-family: "GT-Super-Reg", serif;
-  letter-spacing: -0.025em;
-  font-size: 2.865vw;
+  font-weight: 700;
+  font-size: 1.042vw;
+  font-family: "nimbus-sans-extended", sans-serif;
+  letter-spacing: 0.15em;
 }
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {

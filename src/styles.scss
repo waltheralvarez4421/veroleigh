@@ -9,7 +9,7 @@ body #siteWrapper main#page {
     font-family: 'nimbus-sans-extended', sans-serif;
     letter-spacing: .15em;
   }
-  p {
+  p, p.sqsrte-large, p.sqsrte-small {
     font-family: 'Maison-Book', sans-serif;
     letter-spacing: 0;
   }
@@ -266,6 +266,7 @@ body #siteWrapper main#page {
       &.sqsrte-large {
         font-size:0.938vw;
         font-weight:400;
+        
       }
       &.sqsrte-small {
         font-size:0.833vw;

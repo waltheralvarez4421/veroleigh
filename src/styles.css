@@ -13,7 +13,7 @@ body #siteWrapper main#page h3, body #siteWrapper main#page h4, body #siteWrappe
   font-family: "nimbus-sans-extended", sans-serif;
   letter-spacing: 0.15em;
 }
-body #siteWrapper main#page p {
+body #siteWrapper main#page p, body #siteWrapper main#page p.sqsrte-large, body #siteWrapper main#page p.sqsrte-small {
   font-family: "Maison-Book", sans-serif;
   letter-spacing: 0;
 }

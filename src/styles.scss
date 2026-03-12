@@ -266,7 +266,9 @@ body #siteWrapper main#page {
       &.sqsrte-large {
         font-size:0.938vw;
         font-weight:400;
-        
+        font-family: 'Maison-Book', sans-serif;
+        letter-spacing: 0;
+        text-transform: none;
       }
       &.sqsrte-small {
         font-size:0.833vw;

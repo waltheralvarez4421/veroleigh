@@ -256,6 +256,9 @@ body #siteWrapper main#page #offering h4 {
 body #siteWrapper main#page #offering p.sqsrte-large {
   font-size: 0.938vw;
   font-weight: 400;
+  font-family: "Maison-Book", sans-serif;
+  letter-spacing: 0;
+  text-transform: none;
 }
 body #siteWrapper main#page #offering p.sqsrte-small {
   font-size: 0.833vw;

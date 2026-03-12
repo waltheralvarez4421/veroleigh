@@ -521,7 +521,7 @@ body #siteWrapper main#page #announcement-section [data-sqsp-block=shape] [data-
   border-left: 9px solid #7F2B29;
 }
 body #siteWrapper main#page #announcement-section h3 {
-  font-size: 0.833vw;
+  font-size: 1rem;
 }
 body #siteWrapper main#page #announcement-section p {
   font-size: 1.042vw;

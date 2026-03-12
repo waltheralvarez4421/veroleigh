@@ -23,6 +23,13 @@ document.addEventListener("DOMContentLoaded", function () {
       var images = openSection.querySelectorAll(".sqs-block-image");
       if (images[0]) images[0].classList.add("new");
       if (images[1]) images[1].classList.add("old");
+
+      var buttons = openSection.querySelectorAll(
+        ".sqs-button-element--secondary"
+      );
+      buttons.forEach(function (button) {
+        button.setAttribute("disabled", "disabled");
+      });
     }
 
     if (trigger && openSection) {

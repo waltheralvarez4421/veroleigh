@@ -419,9 +419,6 @@ body #siteWrapper main#page {
     h1 {
       font-size: calc((var(--heading-1-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important;
     }
-    h2 {
-      font-size: calc((var(--heading-2-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important;
-    }
     #desktop-spacer {
       display: none !important;
     }
@@ -432,11 +429,19 @@ body #siteWrapper main#page {
     }
     #stats-section {
       h2 {
-        font-size:3rem;
+        font-size:3rem ;
       }
       h4 {
         font-size:1rem;
         line-height: 1.15em !important;
+      }
+    }
+    #the-team {
+      h2 {
+        font-size:3rem;
+      }
+      h4 {
+        font-size: 1rem;;
       }
     }
   }

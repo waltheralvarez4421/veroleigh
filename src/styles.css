@@ -469,9 +469,6 @@ body #siteWrapper main#page #add-ons h2 {
   body #siteWrapper main#page h1 {
     font-size: calc((var(--heading-1-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem) !important;
   }
-  body #siteWrapper main#page h2 {
-    font-size: calc((var(--heading-2-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem) !important;
-  }
   body #siteWrapper main#page #desktop-spacer {
     display: none !important;
   }
@@ -484,6 +481,12 @@ body #siteWrapper main#page #add-ons h2 {
   body #siteWrapper main#page #stats-section h4 {
     font-size: 1rem;
     line-height: 1.15em !important;
+  }
+  body #siteWrapper main#page #the-team h2 {
+    font-size: 3rem;
+  }
+  body #siteWrapper main#page #the-team h4 {
+    font-size: 1rem;
   }
 }
 

@@ -473,6 +473,9 @@ body #siteWrapper main#page {
       p {
         font-size: calc((var(--small-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem);
       }
+      .sqs-html-content pre code {
+        font-size:2rem;
+      }
     }
   }
 }

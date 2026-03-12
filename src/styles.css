@@ -513,6 +513,9 @@ body #siteWrapper main#page #add-ons h2 {
   body #siteWrapper main#page #the-difference p {
     font-size: calc((var(--small-text-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem);
   }
+  body #siteWrapper main#page #the-difference .sqs-html-content pre code {
+    font-size: 2rem;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

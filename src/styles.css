@@ -464,5 +464,10 @@ body #siteWrapper main#page #mu-edit-open-section.open-service {
 body #siteWrapper main#page #add-ons h2 {
   font-size: 3.385vw;
 }
+@media (max-width: 767px) {
+  body #siteWrapper main#page #desktop-spacer {
+    display: none !important;
+  }
+}
 
 /*# sourceMappingURL=styles.css.map */

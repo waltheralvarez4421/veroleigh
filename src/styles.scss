@@ -411,4 +411,10 @@ body #siteWrapper main#page {
       font-size:3.385vw;
     }
   }
+
+  @media (max-width:767px) {
+    #desktop-spacer {
+      display: none !important;
+    }
+  }
 }

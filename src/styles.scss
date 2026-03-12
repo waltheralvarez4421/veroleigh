@@ -419,6 +419,10 @@ body #siteWrapper main#page {
     h1 {
       font-size: calc((var(--heading-1-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem) !important;
     }
+
+    p {
+      calc((var(--small-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem);
+    }
     #desktop-spacer {
       display: none !important;
     }
@@ -453,7 +457,15 @@ body #siteWrapper main#page {
         font-size:1rem;
       }
       p {
-        font-size:.75rem;
+        font-size:.8rem;
+      }
+    }
+    #the-difference {
+      h2 {
+        font-size: 2.5rem;
+      }
+      h4 {
+        font-size:1rem;
       }
     }
   }

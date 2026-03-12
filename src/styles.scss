@@ -414,10 +414,8 @@ body #siteWrapper main#page {
       font-size:3.385vw;
     }
   }
-}
 
-@media (max-width:767px) {
-  body #siteWrapper main#page {
+  @media (max-width:767px) {
     h1 {
       font-size: calc((var(--heading-1-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem);
     }

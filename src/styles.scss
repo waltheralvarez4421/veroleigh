@@ -421,7 +421,7 @@ body #siteWrapper main#page {
     }
 
     p {
-      calc((var(--small-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem);
+      font-size: calc((var(--small-text-size-value) - 1) * calc(.012 * min(100vh, 900px)) + 1rem);
     }
     #desktop-spacer {
       display: none !important;

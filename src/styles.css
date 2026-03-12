@@ -486,6 +486,7 @@ body #siteWrapper main#page {
 }
 body #siteWrapper main#page #pricing-hero h1 {
   font-size: 3.906vw;
+  line-height: 1em !important;
 }
 body #siteWrapper main#page #pricing-hero h3 {
   font-size: 0.938vw;

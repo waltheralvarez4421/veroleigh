@@ -179,6 +179,10 @@ body #siteWrapper main#page #offering .sqs-html-content pre code {
   font-size: 2.865vw;
   color: #CE4B2C;
 }
+body #siteWrapper main#page #the-difference hr,
+body #siteWrapper main#page #offering hr {
+  opacity: 0.37;
+}
 body #siteWrapper main#page #faq-section h2 {
   font-size: 5.208vw;
   line-height: 1em !important;

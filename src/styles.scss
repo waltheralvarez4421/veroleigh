@@ -178,6 +178,9 @@ body #siteWrapper main#page {
         }
       }
     }
+    hr {
+      opacity: .37;
+    }
   }
 
   #faq-section {
@@ -415,6 +418,14 @@ body #siteWrapper main#page {
   @media (max-width:767px) {
     #desktop-spacer {
       display: none !important;
+    }
+    #section-hero {
+      h2 {
+
+      }
+      h4 {
+        
+      }
     }
   }
 }

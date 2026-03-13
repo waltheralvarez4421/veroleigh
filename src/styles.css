@@ -206,50 +206,61 @@ body #siteWrapper main#page #offering hr,
 body #siteWrapper main#page #coffee-date hr {
   opacity: 0.37;
 }
-body #siteWrapper main#page #faq-section h2 {
+body #siteWrapper main#page #faq-section h2,
+body #siteWrapper main#page #pricing-faq h2 {
   font-size: 5.208vw;
   line-height: 1em !important;
 }
-body #siteWrapper main#page #faq-section h4 {
+body #siteWrapper main#page #faq-section h4,
+body #siteWrapper main#page #pricing-faq h4 {
   text-transform: uppercase;
   font-size: 1.302vw;
   line-height: 1em !important;
   font-weight: 700;
 }
-body #siteWrapper main#page #faq-section p {
+body #siteWrapper main#page #faq-section p,
+body #siteWrapper main#page #pricing-faq p {
   font-size: 1.563vw;
   font-weight: 400;
   text-transform: none;
 }
-body #siteWrapper main#page #faq-section span.accordion-item__title {
+body #siteWrapper main#page #faq-section span.accordion-item__title,
+body #siteWrapper main#page #pricing-faq span.accordion-item__title {
   color: #FFFAEF;
   font-size: 1.042vw;
 }
-body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description {
+body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description,
+body #siteWrapper main#page #pricing-faq .accordion-item__dropdown .accordion-item__description {
   max-width: 100% !important;
 }
-body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description p {
+body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description p,
+body #siteWrapper main#page #pricing-faq .accordion-item__dropdown .accordion-item__description p {
   font-size: 0.938vw;
 }
-body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-icon-container {
+body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-icon-container,
+body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-container {
   max-width: 3.177vw !important;
   max-height: 3.177vw !important;
   padding: 0.885vw;
   border: 1px solid #FFFAEF;
   transition: all 0.5s ease;
 }
-body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-icon-container > * {
+body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-icon-container > *,
+body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-container > * {
   position: relative;
 }
-body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .accordion-icon-container {
+body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .accordion-icon-container,
+body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-item[data-is-open=true] .accordion-icon-container {
   transform: rotateZ(45deg);
   border-color: #CE4B2C;
 }
-body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus {
+body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus,
+body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-item[data-is-open=true] .plus {
   transform: rotate(45deg);
   color: #CE4B2C;
 }
-body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus__vertical-line {
+body #siteWrapper main#page #faq-section .sqs-block-accordion .accordion-item[data-is-open=true] .plus__vertical-line,
+body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-item[data-is-open=true] .plus__vertical-line {
   transform: rotate(90deg);
 }
 body #siteWrapper main#page #offering h2 {

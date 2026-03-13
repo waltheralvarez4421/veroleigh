@@ -637,6 +637,22 @@ body #siteWrapper main#page #bridal-packages .sqs-background-enabled code,
 body #siteWrapper main#page #add-on-packages .sqs-background-enabled code {
   color: #FFFAEF;
 }
+body #siteWrapper main#page #coffee-date h2 {
+  font-size: 3.906vw;
+}
+body #siteWrapper main#page #coffee-date h3 {
+  font-size: 1.302vw;
+  font-family: "nimbus-sans", sans-serif;
+  letter-spacing: 0.05em;
+}
+body #siteWrapper main#page #coffee-date h4 {
+  font-size: 1.302vw;
+  font-family: "nimbus-sans", sans-serif;
+  letter-spacing: 0.05em;
+}
+body #siteWrapper main#page #coffee-date p {
+  font-size: 1.042vw;
+}
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {
     font-size: calc((var(--heading-1-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem) !important;

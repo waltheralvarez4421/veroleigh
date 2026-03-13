@@ -568,6 +568,24 @@ body #siteWrapper main#page {
       }
     }
   }
+  #coffee-date {
+    h2 {
+      font-size: 3.906vw;
+    }
+    h3 {
+      font-size: 1.302vw;
+      font-family: 'nimbus-sans',sans-serif;
+      letter-spacing: .050em;
+    }
+    h4 {
+      font-size: 1.302vw;
+      font-family: 'nimbus-sans',sans-serif;
+      letter-spacing: .050em;
+    }
+    p {
+      font-size: 1.042vw;
+    }
+  }
 
   @media (max-width:767px) {
     h1 {

@@ -43,4 +43,19 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     }
   });
+
+  // Wrap text after "-" in accordion titles within #pricing-faq
+  var faqTitles = document.querySelectorAll(
+    "#pricing-faq .accordion-item__title"
+  );
+  faqTitles.forEach(function (title) {
+    var text = title.textContent;
+    var dashIndex = text.indexOf("-");
+    if (dashIndex !== -1) {
+      var before = text.substring(0, dashIndex + 1);
+      var after = text.substring(dashIndex + 1).trim();
+      title.innerHTML =
+        before + ' <span class="accordion-title__detail">' + after + "</span>";
+    }
+  });
 });

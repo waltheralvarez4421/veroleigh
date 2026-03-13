@@ -667,7 +667,7 @@ body #siteWrapper main#page #coffee-date p {
 body #siteWrapper main#page #pricing-faq h4 {
   font-size: 1.823vw;
 }
-body #siteWrapper main#page #pricing-faq .accordion-item__title {
+body #siteWrapper main#page #pricing-faq span.accordion-item__title {
   color: #242424;
 }
 body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-container {

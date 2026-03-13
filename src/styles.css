@@ -565,7 +565,7 @@ body #siteWrapper main#page #bridal-packages h4 {
   line-height: 1.5em !important;
 }
 body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text {
-  word-wrap: normal !important;
+  word-break: normal !important;
 }
 body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h2 {
   font-family: "GT-Super-Reg", serif;

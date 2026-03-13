@@ -595,6 +595,9 @@ body #siteWrapper main#page #bridal-packages .sqs-html-content pre code {
 body #siteWrapper main#page #bridal-packages hr {
   opacity: 0.3;
 }
+body #siteWrapper main#page #bridal-packages .sqs-background-enabled code {
+  color: #FFFAEF;
+}
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {
     font-size: calc((var(--heading-1-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem) !important;

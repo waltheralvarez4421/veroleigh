@@ -548,6 +548,11 @@ body #siteWrapper main#page {
     hr {
       opacity: .3;
     }
+    .sqs-background-enabled {
+      code {
+        color:#FFFAEF;
+      }
+    }
   }
 
   @media (max-width:767px) {

@@ -691,6 +691,9 @@ body #siteWrapper main#page #pricing-faq h4 {
 body #siteWrapper main#page #pricing-faq span.accordion-item__title {
   color: #242424;
 }
+body #siteWrapper main#page #pricing-faq span.accordion-item__title .accordion-title__detail {
+  color: #7F2B29;
+}
 body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-container {
   border: 1px solid #242424;
 }

@@ -595,6 +595,9 @@ body #siteWrapper main#page {
     }
     span.accordion-item__title {
       color: #242424;
+      .accordion-title__detail {
+        color: #7F2B29;
+      }
     }
     .sqs-block-accordion {
       .accordion-icon-container {

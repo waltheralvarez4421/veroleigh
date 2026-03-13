@@ -511,6 +511,7 @@ body #siteWrapper main#page {
       font-weight: 700;
       text-transform: uppercase;
       font-size: 0.781vw !important;
+      line-height: 1.5em !important;
     }
     .sqsrte-scaled-text {
       h2 {
@@ -520,6 +521,12 @@ body #siteWrapper main#page {
       }
       h4 {
         opacity: .45;
+      }
+      p {
+        &.sqsrte-small {
+          font-size: 0.729vw !important;
+          opacity: .65;
+        }
       }
     }
     p {
@@ -537,6 +544,9 @@ body #siteWrapper main#page {
       font-size: 1.042vw;
       font-family: 'nimbus-sans-extended', sans-serif;
       letter-spacing: .15em;
+    }
+    hr {
+      opacity: .3;
     }
   }
 

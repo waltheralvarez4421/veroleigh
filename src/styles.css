@@ -664,6 +664,17 @@ body #siteWrapper main#page #coffee-date h4 {
 body #siteWrapper main#page #coffee-date p {
   font-size: 1.042vw;
 }
+body #siteWrapper main#page #pricing-faq h4 {
+  color: #242424;
+  font-size: 1.823vw;
+}
+body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-container {
+  border: 1px solid #242424;
+}
+body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-container .plus__horizontal-line,
+body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-container .plus__vertical-line {
+  height: 2px !important;
+}
 @media (max-width: 767px) {
   body #siteWrapper main#page h1 {
     font-size: calc((var(--heading-1-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem) !important;

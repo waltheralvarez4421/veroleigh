@@ -587,6 +587,21 @@ body #siteWrapper main#page {
       font-size: 1.042vw;
     }
   }
+  #pricing-faq {
+    h4 {
+      color:#242424;
+      font-size: 1.823vw;
+    }
+    .sqs-block-accordion {
+      .accordion-icon-container {
+        border: 1px solid #242424;
+        .plus__horizontal-line,
+        .plus__vertical-line {
+          height: 2px !important;
+        }
+      }
+    }
+  }
 
   @media (max-width:767px) {
     h1 {

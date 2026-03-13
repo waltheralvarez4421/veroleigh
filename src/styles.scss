@@ -539,6 +539,9 @@ body #siteWrapper main#page {
       }
       &.sqsrte-small {
         font-size: 0.729vw;
+        em {
+          opacity:.65;
+        }
       }
     }
     .sqs-html-content pre code {

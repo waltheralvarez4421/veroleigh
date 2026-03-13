@@ -599,6 +599,10 @@ body #siteWrapper main#page #bridal-packages p.sqsrte-small,
 body #siteWrapper main#page #add-on-packages p.sqsrte-small {
   font-size: 0.729vw;
 }
+body #siteWrapper main#page #bridal-packages p.sqsrte-small em,
+body #siteWrapper main#page #add-on-packages p.sqsrte-small em {
+  opacity: 0.65;
+}
 body #siteWrapper main#page #bridal-packages .sqs-html-content pre code,
 body #siteWrapper main#page #add-on-packages .sqs-html-content pre code {
   font-weight: 700;

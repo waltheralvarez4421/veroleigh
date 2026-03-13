@@ -589,8 +589,10 @@ body #siteWrapper main#page {
   }
   #pricing-faq {
     h4 {
-      color:#242424;
       font-size: 1.823vw;
+    }
+    .accordion-item__title {
+      color: #242424;
     }
     .sqs-block-accordion {
       .accordion-icon-container {

@@ -550,55 +550,68 @@ body #siteWrapper main#page #fees-title p {
   font-weight: 400;
   font-size: 1.302vw;
 }
-body #siteWrapper main#page #bridal-packages h2 {
+body #siteWrapper main#page #bridal-packages h2,
+body #siteWrapper main#page #add-on-packages h2 {
   font-size: 3.385vw;
 }
-body #siteWrapper main#page #bridal-packages h3 {
+body #siteWrapper main#page #bridal-packages h3,
+body #siteWrapper main#page #add-on-packages h3 {
   font-size: 0.833vw;
   font-weight: 700;
   text-transform: uppercase;
 }
-body #siteWrapper main#page #bridal-packages h4 {
+body #siteWrapper main#page #bridal-packages h4,
+body #siteWrapper main#page #add-on-packages h4 {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 0.781vw !important;
   line-height: 1.5em !important;
 }
-body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text {
+body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text,
+body #siteWrapper main#page #add-on-packages .sqsrte-scaled-text {
   word-break: normal !important;
 }
-body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h2 {
+body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h2,
+body #siteWrapper main#page #add-on-packages .sqsrte-scaled-text h2 {
   font-family: "GT-Super-Reg", serif;
   letter-spacing: -0.025em;
   font-size: 2.865vw;
 }
-body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h4 {
+body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h4,
+body #siteWrapper main#page #add-on-packages .sqsrte-scaled-text h4 {
   opacity: 0.45;
 }
-body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text p.sqsrte-small {
+body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text p.sqsrte-small,
+body #siteWrapper main#page #add-on-packages .sqsrte-scaled-text p.sqsrte-small {
   font-size: 0.729vw !important;
   opacity: 0.65;
 }
-body #siteWrapper main#page #bridal-packages p {
+body #siteWrapper main#page #bridal-packages p,
+body #siteWrapper main#page #add-on-packages p {
   font-size: 0.833vw;
 }
-body #siteWrapper main#page #bridal-packages p.sqsrte-large {
+body #siteWrapper main#page #bridal-packages p.sqsrte-large,
+body #siteWrapper main#page #add-on-packages p.sqsrte-large {
   font-size: 0.938vw;
   margin: 0.5rem 0;
 }
-body #siteWrapper main#page #bridal-packages p.sqsrte-small {
+body #siteWrapper main#page #bridal-packages p.sqsrte-small,
+body #siteWrapper main#page #add-on-packages p.sqsrte-small {
   font-size: 0.729vw;
 }
-body #siteWrapper main#page #bridal-packages .sqs-html-content pre code {
+body #siteWrapper main#page #bridal-packages .sqs-html-content pre code,
+body #siteWrapper main#page #add-on-packages .sqs-html-content pre code {
   font-weight: 700;
   font-size: 1.042vw;
   font-family: "nimbus-sans-extended", sans-serif;
   letter-spacing: 0.15em;
 }
-body #siteWrapper main#page #bridal-packages hr {
+body #siteWrapper main#page #bridal-packages hr,
+body #siteWrapper main#page #add-on-packages hr {
   opacity: 0.3;
 }
-body #siteWrapper main#page #bridal-packages .sqs-background-enabled code {
+body #siteWrapper main#page #bridal-packages .sqs-background-enabled code,
+body #siteWrapper main#page #add-on-packages .sqs-background-enabled code {
   color: #FFFAEF;
 }
 @media (max-width: 767px) {

@@ -793,5 +793,17 @@ body #siteWrapper main#page {
         }
       }
     }
+    /* Pricing Page */
+    #pricing-hero {
+      h4 {
+        font-size: 1rem;
+      }
+      p {
+        font-size: inherit;
+        &.sqsrte-large {
+          font-size: 1rem;
+        }
+      }
+    }
   }
 }

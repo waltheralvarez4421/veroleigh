@@ -893,6 +893,18 @@ body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-co
   body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description p {
     font-size: 0.85rem;
   }
+  body #siteWrapper main#page {
+    /* Pricing Page */
+  }
+  body #siteWrapper main#page #pricing-hero h4 {
+    font-size: 1rem;
+  }
+  body #siteWrapper main#page #pricing-hero p {
+    font-size: inherit;
+  }
+  body #siteWrapper main#page #pricing-hero p.sqsrte-large {
+    font-size: 1rem;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

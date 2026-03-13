@@ -142,33 +142,38 @@ body #siteWrapper main#page #team-wrapper p {
   margin: 0;
 }
 body #siteWrapper main#page #the-difference h2,
-body #siteWrapper main#page #offering h2 {
+body #siteWrapper main#page #offering h2,
+body #siteWrapper main#page #coffee-date h2 {
   font-size: 2.865vw;
   font-weight: 400;
   line-height: 1em !important;
 }
 body #siteWrapper main#page #the-difference h3,
-body #siteWrapper main#page #offering h3 {
+body #siteWrapper main#page #offering h3,
+body #siteWrapper main#page #coffee-date h3 {
   font-weight: 700;
   font-size: 1.302vw;
   line-height: 1em !important;
   text-transform: uppercase;
 }
 body #siteWrapper main#page #the-difference h4,
-body #siteWrapper main#page #offering h4 {
+body #siteWrapper main#page #offering h4,
+body #siteWrapper main#page #coffee-date h4 {
   font-weight: 700;
   font-size: 1.042vw;
   line-height: 1em !important;
   text-transform: uppercase;
 }
 body #siteWrapper main#page #the-difference p,
-body #siteWrapper main#page #offering p {
+body #siteWrapper main#page #offering p,
+body #siteWrapper main#page #coffee-date p {
   text-transform: none;
   font-weight: 400;
   font-size: 1.302vw;
 }
 body #siteWrapper main#page #the-difference p.sqsrte-large,
-body #siteWrapper main#page #offering p.sqsrte-large {
+body #siteWrapper main#page #offering p.sqsrte-large,
+body #siteWrapper main#page #coffee-date p.sqsrte-large {
   font-weight: 700;
   font-size: 1.302vw;
   line-height: 1em !important;
@@ -177,24 +182,28 @@ body #siteWrapper main#page #offering p.sqsrte-large {
   letter-spacing: 0.15em;
 }
 body #siteWrapper main#page #the-difference .fe-block-yui_3_17_2_1_1773075180429_1476049,
-body #siteWrapper main#page #offering .fe-block-yui_3_17_2_1_1773075180429_1476049 {
+body #siteWrapper main#page #offering .fe-block-yui_3_17_2_1_1773075180429_1476049,
+body #siteWrapper main#page #coffee-date .fe-block-yui_3_17_2_1_1773075180429_1476049 {
   grid-column-end: 5 !important;
 }
 body #siteWrapper main#page #the-difference .fe-block-yui_3_17_2_1_1773075180429_1476049 .sqs-block-content,
-body #siteWrapper main#page #offering .fe-block-yui_3_17_2_1_1773075180429_1476049 .sqs-block-content {
+body #siteWrapper main#page #offering .fe-block-yui_3_17_2_1_1773075180429_1476049 .sqs-block-content,
+body #siteWrapper main#page #coffee-date .fe-block-yui_3_17_2_1_1773075180429_1476049 .sqs-block-content {
   display: flex;
   justify-content: center;
   align-items: center;
   align-content: center;
 }
 body #siteWrapper main#page #the-difference .sqs-html-content pre code,
-body #siteWrapper main#page #offering .sqs-html-content pre code {
+body #siteWrapper main#page #offering .sqs-html-content pre code,
+body #siteWrapper main#page #coffee-date .sqs-html-content pre code {
   font-style: normal;
   font-size: 2.865vw;
   color: #CE4B2C;
 }
 body #siteWrapper main#page #the-difference hr,
-body #siteWrapper main#page #offering hr {
+body #siteWrapper main#page #offering hr,
+body #siteWrapper main#page #coffee-date hr {
   opacity: 0.37;
 }
 body #siteWrapper main#page #faq-section h2 {

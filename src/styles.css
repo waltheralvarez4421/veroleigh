@@ -944,6 +944,61 @@ body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-co
   body #siteWrapper main#page #fees-title p {
     font-size: 1rem;
   }
+  body #siteWrapper main#page #bridal-packages h2,
+  body #siteWrapper main#page #add-on-packages h2,
+  body #siteWrapper main#page #party-packages h2 {
+    font-size: 2rem;
+  }
+  body #siteWrapper main#page #bridal-packages h3,
+  body #siteWrapper main#page #add-on-packages h3,
+  body #siteWrapper main#page #party-packages h3 {
+    font-size: 1.15rem;
+  }
+  body #siteWrapper main#page #bridal-packages h4,
+  body #siteWrapper main#page #add-on-packages h4,
+  body #siteWrapper main#page #party-packages h4 {
+    font-size: 1rem !important;
+  }
+  body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h2,
+  body #siteWrapper main#page #add-on-packages .sqsrte-scaled-text h2,
+  body #siteWrapper main#page #party-packages .sqsrte-scaled-text h2 {
+    font-size: 2rem;
+  }
+  body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h4,
+  body #siteWrapper main#page #add-on-packages .sqsrte-scaled-text h4,
+  body #siteWrapper main#page #party-packages .sqsrte-scaled-text h4 {
+    opacity: 0.45;
+  }
+  body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text p.sqsrte-small,
+  body #siteWrapper main#page #add-on-packages .sqsrte-scaled-text p.sqsrte-small,
+  body #siteWrapper main#page #party-packages .sqsrte-scaled-text p.sqsrte-small {
+    font-size: 0.85rem !important;
+  }
+  body #siteWrapper main#page #bridal-packages p,
+  body #siteWrapper main#page #add-on-packages p,
+  body #siteWrapper main#page #party-packages p {
+    font-size: 1rem;
+  }
+  body #siteWrapper main#page #bridal-packages p.sqsrte-large,
+  body #siteWrapper main#page #add-on-packages p.sqsrte-large,
+  body #siteWrapper main#page #party-packages p.sqsrte-large {
+    font-size: 1.15rem;
+  }
+  body #siteWrapper main#page #bridal-packages p.sqsrte-small,
+  body #siteWrapper main#page #add-on-packages p.sqsrte-small,
+  body #siteWrapper main#page #party-packages p.sqsrte-small {
+    font-size: 0.85rem;
+  }
+  body #siteWrapper main#page #bridal-packages .sqs-html-content pre code,
+  body #siteWrapper main#page #add-on-packages .sqs-html-content pre code,
+  body #siteWrapper main#page #party-packages .sqs-html-content pre code {
+    font-size: 1rem;
+  }
+  body #siteWrapper main#page #bridal-packages .sqs-background-enabled code,
+  body #siteWrapper main#page #add-on-packages .sqs-background-enabled code,
+  body #siteWrapper main#page #party-packages .sqs-background-enabled code {
+    color: #FFFAEF;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

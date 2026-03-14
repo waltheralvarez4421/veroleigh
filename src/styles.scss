@@ -835,5 +835,48 @@ body #siteWrapper main#page {
         font-size: 1rem;;
       }
     }
+    #bridal-packages,
+  #add-on-packages,
+  #party-packages {
+    h2 {
+      font-size: 2rem;
+    }
+    h3 {
+      font-size: 1.15rem;
+    }
+    h4 {
+      font-size: 1rem !important;
+    }
+    .sqsrte-scaled-text {
+      h2 {
+        font-size:2rem;
+      }
+      h4 {
+        opacity: .45;
+      }
+      p {
+        &.sqsrte-small {
+          font-size: .85rem!important;
+        }
+      }
+    }
+    p {
+      font-size: 1rem;
+      &.sqsrte-large {
+        font-size: 1.15rem;
+      }
+      &.sqsrte-small {
+        font-size: .85rem;
+      }
+    }
+    .sqs-html-content pre code {
+      font-size: 1rem;
+    }
+    .sqs-background-enabled {
+      code {
+        color:#FFFAEF;
+      }
+    }
+  }
   }
 }

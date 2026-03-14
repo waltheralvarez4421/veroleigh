@@ -742,27 +742,33 @@ body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-co
     font-size: 0.8rem;
   }
   body #siteWrapper main#page #the-difference h2,
-  body #siteWrapper main#page #offering h2 {
+  body #siteWrapper main#page #offering h2,
+  body #siteWrapper main#page #coffee-date h2 {
     font-size: 2.5rem;
   }
   body #siteWrapper main#page #the-difference h3,
-  body #siteWrapper main#page #offering h3 {
+  body #siteWrapper main#page #offering h3,
+  body #siteWrapper main#page #coffee-date h3 {
     font-size: 0.85rem;
   }
   body #siteWrapper main#page #the-difference h4,
-  body #siteWrapper main#page #offering h4 {
+  body #siteWrapper main#page #offering h4,
+  body #siteWrapper main#page #coffee-date h4 {
     font-size: 0.75rem;
   }
   body #siteWrapper main#page #the-difference p,
-  body #siteWrapper main#page #offering p {
+  body #siteWrapper main#page #offering p,
+  body #siteWrapper main#page #coffee-date p {
     font-size: calc((var(--small-text-size-value) - 1) * 0.012 * min(100vh, 900px) + 1rem);
   }
   body #siteWrapper main#page #the-difference p.sqsrte-large,
-  body #siteWrapper main#page #offering p.sqsrte-large {
+  body #siteWrapper main#page #offering p.sqsrte-large,
+  body #siteWrapper main#page #coffee-date p.sqsrte-large {
     font-size: 1rem;
   }
   body #siteWrapper main#page #the-difference .sqs-html-content pre code,
-  body #siteWrapper main#page #offering .sqs-html-content pre code {
+  body #siteWrapper main#page #offering .sqs-html-content pre code,
+  body #siteWrapper main#page #coffee-date .sqs-html-content pre code {
     font-size: 2rem;
   }
   body #siteWrapper main#page #basic-af-trigger-section h2,

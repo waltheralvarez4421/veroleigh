@@ -952,12 +952,12 @@ body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-co
   body #siteWrapper main#page #bridal-packages h3,
   body #siteWrapper main#page #add-on-packages h3,
   body #siteWrapper main#page #party-packages h3 {
-    font-size: 1.15rem;
+    font-size: 1rem;
   }
   body #siteWrapper main#page #bridal-packages h4,
   body #siteWrapper main#page #add-on-packages h4,
   body #siteWrapper main#page #party-packages h4 {
-    font-size: 1rem !important;
+    font-size: 0.9rem !important;
   }
   body #siteWrapper main#page #bridal-packages .sqsrte-scaled-text h2,
   body #siteWrapper main#page #add-on-packages .sqsrte-scaled-text h2,

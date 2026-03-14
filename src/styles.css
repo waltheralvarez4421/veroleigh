@@ -878,19 +878,24 @@ body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-co
   body #siteWrapper main#page #reviews h3 {
     font-size: 10rem;
   }
-  body #siteWrapper main#page #faq-section h2 {
+  body #siteWrapper main#page #faq-section h2,
+  body #siteWrapper main#page #pricing-faq h2 {
     font-size: 3rem;
   }
-  body #siteWrapper main#page #faq-section h4 {
+  body #siteWrapper main#page #faq-section h4,
+  body #siteWrapper main#page #pricing-faq h4 {
     font-size: 1rem;
   }
-  body #siteWrapper main#page #faq-section p {
+  body #siteWrapper main#page #faq-section p,
+  body #siteWrapper main#page #pricing-faq p {
     font-size: 1rem;
   }
-  body #siteWrapper main#page #faq-section span.accordion-item__title {
+  body #siteWrapper main#page #faq-section span.accordion-item__title,
+  body #siteWrapper main#page #pricing-faq span.accordion-item__title {
     font-size: 1rem;
   }
-  body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description p {
+  body #siteWrapper main#page #faq-section .accordion-item__dropdown .accordion-item__description p,
+  body #siteWrapper main#page #pricing-faq .accordion-item__dropdown .accordion-item__description p {
     font-size: 0.85rem;
   }
   body #siteWrapper main#page {

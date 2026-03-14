@@ -911,6 +911,9 @@ body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-co
     font-size: 1rem;
     padding: 1rem 0 0 0 !important;
   }
+  body #siteWrapper main#page #announcement-section p {
+    font-size: 1rem;
+  }
 }
 
 /*# sourceMappingURL=styles.css.map */

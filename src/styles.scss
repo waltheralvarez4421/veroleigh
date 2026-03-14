@@ -816,6 +816,15 @@ body #siteWrapper main#page {
     #announcement-section {
       p {
         font-size: 1rem;
+        padding-left: 1rem;
+      }
+    }
+    #bridal-title,
+    #add-on-title,
+    #party-title,
+    #fees-title {
+      h3 {
+        font-size:1rem;
       }
     }
   }

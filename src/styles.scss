@@ -805,5 +805,11 @@ body #siteWrapper main#page {
         }
       }
     }
+    #inner-nav {
+      a {
+        border: none;
+        font-size:1.25rem;
+      }
+    }
   }
 }

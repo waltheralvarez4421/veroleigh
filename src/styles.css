@@ -915,10 +915,22 @@ body #siteWrapper main#page #pricing-faq .sqs-block-accordion .accordion-icon-co
     font-size: 1rem;
     padding-left: 1rem;
   }
+  body #siteWrapper main#page #bridal-title h2,
+  body #siteWrapper main#page #add-on-title h2,
+  body #siteWrapper main#page #party-title h2,
+  body #siteWrapper main#page #fees-title h2 {
+    font-size: 2rem;
+  }
   body #siteWrapper main#page #bridal-title h3,
   body #siteWrapper main#page #add-on-title h3,
   body #siteWrapper main#page #party-title h3,
   body #siteWrapper main#page #fees-title h3 {
+    font-size: 1rem;
+  }
+  body #siteWrapper main#page #bridal-title p,
+  body #siteWrapper main#page #add-on-title p,
+  body #siteWrapper main#page #party-title p,
+  body #siteWrapper main#page #fees-title p {
     font-size: 1rem;
   }
 }

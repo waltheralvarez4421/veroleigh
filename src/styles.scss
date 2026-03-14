@@ -823,8 +823,14 @@ body #siteWrapper main#page {
     #add-on-title,
     #party-title,
     #fees-title {
+      h2 {
+        font-size:2rem;
+      }
       h3 {
         font-size:1rem;
+      }
+      p {
+        font-size: 1rem;;
       }
     }
   }

@@ -13,6 +13,9 @@ body {
   body #siteWrapper main#page p {
     font-size:clamp(1rem, .938vw, 26px);
   }
+  body #siteWrapper main#page a {
+    font-size:clamp(1.25rem, 1.042vw, 32px);
+  }
   body #siteWrapper main#page .embed-block .sqs-block-content {
     height:100% !important;
   }

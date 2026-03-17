@@ -13,7 +13,10 @@ body {
   body #siteWrapper main#page p {
     font-size:clamp(1rem, .938vw, 26px);
   }
-  body #siteWrapper main#page .sqs-block-content svg {
+  body #siteWrapper main#page .embed-block .sqs-block-content {
+    height:100% !important;
+  }
+  body #siteWrapper main#page .embed-block .sqs-block-content svg {
     width:30%;
   }
 }

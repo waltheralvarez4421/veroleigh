@@ -16,6 +16,9 @@ body {
   body #siteWrapper main#page a {
     font-size:clamp(1.25rem, 1.042vw, 32px);
   }
+  body #siteWrapper main#page .sqs-block-button-container a {
+    padding: 1.5rem 0 !important;
+  }
   body #siteWrapper main#page .embed-block .sqs-block-content {
     height:100% !important;
   }

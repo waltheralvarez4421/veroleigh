@@ -2,6 +2,19 @@ body {
   background: #E6DED0;
 }
 
+@media (min-width:767px) {
+  body #siteWrapper main#page .fluid-engine {
+         --container-width: 100vw;
+         --cell-max-width: 100%;
+     }
+}
+
+@media (min-width:1550px) {
+  body #siteWrapper main#page p {
+    font-size:clamp(1rem, .938vw, 26px);
+  }
+}
+
 body #siteWrapper main#page {
   --tweak-line-block-line-color:#E2E2E4;
 }
